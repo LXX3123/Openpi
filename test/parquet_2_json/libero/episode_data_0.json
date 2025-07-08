@@ -1,0 +1,2972 @@
+[
+  {
+    "episode_index": 0,
+    "frame_index": 0,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_0.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_0.png",
+    "task_index": 0,
+    "state": [
+      -0.20487476885318756,
+      -0.010081525892019272,
+      1.174657940864563,
+      3.1396350860595703,
+      0.0001441165222786367,
+      -0.08801795542240143,
+      0.03878617286682129,
+      -0.03878973424434662
+    ],
+    "actions": [
+      0.13124999403953552,
+      -0.0401785708963871,
+      -0.0,
+      0.0,
+      -0.04928571358323097,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 0.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 1,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_1.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_1.png",
+    "task_index": 0,
+    "state": [
+      -0.2037886083126068,
+      -0.010280994698405266,
+      1.1749176979064941,
+      3.1397652626037598,
+      -0.00022223000996746123,
+      -0.08219508826732635,
+      0.038874343037605286,
+      -0.038888610899448395
+    ],
+    "actions": [
+      0.32946428656578064,
+      -0.02142857201397419,
+      -0.0,
+      0.0,
+      -0.08785714209079742,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 0.10000000149011612
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 2,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_2.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_2.png",
+    "task_index": 0,
+    "state": [
+      -0.20071499049663544,
+      -0.010583455674350262,
+      1.1752418279647827,
+      3.140000104904175,
+      -0.0005619296571239829,
+      -0.0666363313794136,
+      0.038930561393499374,
+      -0.038941655308008194
+    ],
+    "actions": [
+      0.4553571343421936,
+      -0.010714286006987095,
+      -0.0,
+      -0.003214285708963871,
+      -0.09857142716646194,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 0.20000000298023224
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 3,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_3.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_3.png",
+    "task_index": 0,
+    "state": [
+      -0.1960320919752121,
+      -0.010790367610752583,
+      1.1752214431762695,
+      3.1400716304779053,
+      -0.0006848538760095835,
+      -0.044879596680402756,
+      0.03897671401500702,
+      -0.03898695856332779
+    ],
+    "actions": [
+      0.6107142567634583,
+      -0.008035714738070965,
+      -0.0,
+      -0.003214285708963871,
+      -0.1071428582072258,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 0.30000001192092896
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 4,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_4.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_4.png",
+    "task_index": 0,
+    "state": [
+      -0.1898987591266632,
+      -0.010930868797004223,
+      1.1748316287994385,
+      3.139846086502075,
+      -0.0006796211237087846,
+      -0.019067944958806038,
+      0.039020609110593796,
+      -0.03903040289878845
+    ],
+    "actions": [
+      0.7607142925262451,
+      0.0,
+      -0.0,
+      -0.002142857061699033,
+      -0.11464285850524902,
+      0.003214285708963871,
+      -1.0
+    ],
+    "timestamp": 0.4000000059604645
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 5,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_5.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_5.png",
+    "task_index": 0,
+    "state": [
+      -0.18217876553535461,
+      -0.010988933965563774,
+      1.1740959882736206,
+      3.139381170272827,
+      -0.0003795367665588856,
+      0.010193133726716042,
+      0.0390627458691597,
+      -0.039071857929229736
+    ],
+    "actions": [
+      0.8651785850524902,
+      0.0,
+      -0.0,
+      0.0,
+      -0.10499999672174454,
+      0.007499999832361937,
+      -1.0
+    ],
+    "timestamp": 0.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 6,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_6.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_6.png",
+    "task_index": 0,
+    "state": [
+      -0.17316821217536926,
+      -0.010942794382572174,
+      1.172966718673706,
+      3.1387622356414795,
+      0.0004457977192942053,
+      0.04039759561419487,
+      0.03910299763083458,
+      -0.03911161422729492
+    ],
+    "actions": [
+      0.9348214268684387,
+      0.0,
+      -0.02678571455180645,
+      0.0,
+      -0.08785714209079742,
+      0.011785713955760002,
+      -1.0
+    ],
+    "timestamp": 0.6000000238418579
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 7,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_7.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_7.png",
+    "task_index": 0,
+    "state": [
+      -0.16324594616889954,
+      -0.010858419351279736,
+      1.1713385581970215,
+      3.1379847526550293,
+      0.0020117470994591713,
+      0.06894435733556747,
+      0.03914139047265053,
+      -0.039149798452854156
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.08571428805589676,
+      -0.002142857061699033,
+      -0.06857142597436905,
+      0.012857142835855484,
+      -1.0
+    ],
+    "timestamp": 0.699999988079071
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 8,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_8.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_8.png",
+    "task_index": 0,
+    "state": [
+      -0.1528482437133789,
+      -0.010798285715281963,
+      1.1690292358398438,
+      3.136975049972534,
+      0.0041403514333069324,
+      0.09366513788700104,
+      0.03917801007628441,
+      -0.039186473935842514
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.09375,
+      -0.008571428246796131,
+      -0.07392857223749161,
+      0.009642857126891613,
+      -1.0
+    ],
+    "timestamp": 0.800000011920929
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 9,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_9.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_9.png",
+    "task_index": 0,
+    "state": [
+      -0.14203132688999176,
+      -0.01083107478916645,
+      1.1664727926254272,
+      3.1354777812957764,
+      0.006206714082509279,
+      0.11589276790618896,
+      0.0392129011452198,
+      -0.03922173008322716
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.12857143580913544,
+      -0.017142856493592262,
+      -0.09535714238882065,
+      0.0053571430034935474,
+      -1.0
+    ],
+    "timestamp": 0.8999999761581421
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 10,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_10.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_10.png",
+    "task_index": 0,
+    "state": [
+      -0.1306769698858261,
+      -0.010996946133673191,
+      1.1640002727508545,
+      3.1331067085266113,
+      0.007891880348324776,
+      0.1381995975971222,
+      0.03924616798758507,
+      -0.03925560042262077
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.23035714030265808,
+      -0.012857142835855484,
+      -0.06750000268220901,
+      0.008571428246796131,
+      -1.0
+    ],
+    "timestamp": 1.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 11,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_11.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_11.png",
+    "task_index": 0,
+    "state": [
+      -0.11925706267356873,
+      -0.011111103929579258,
+      1.1607286930084229,
+      3.13045597076416,
+      0.00980428047478199,
+      0.15806467831134796,
+      0.039278462529182434,
+      -0.03928756341338158
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.3482142984867096,
+      0.0,
+      -0.011785713955760002,
+      0.020357143133878708,
+      -1.0
+    ],
+    "timestamp": 1.100000023841858
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 12,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_12.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_12.png",
+    "task_index": 0,
+    "state": [
+      -0.10823874920606613,
+      -0.010935718193650246,
+      1.1557127237319946,
+      3.1288485527038574,
+      0.012592339888215065,
+      0.17137785255908966,
+      0.03930969536304474,
+      -0.03931783512234688
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.38303571939468384,
+      0.0,
+      0.0,
+      0.025714285671710968,
+      -1.0
+    ],
+    "timestamp": 1.2000000476837158
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 13,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_13.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_13.png",
+    "task_index": 0,
+    "state": [
+      -0.09730637073516846,
+      -0.010670808143913746,
+      1.149546504020691,
+      3.1280455589294434,
+      0.016536664217710495,
+      0.17997953295707703,
+      0.03933890163898468,
+      -0.03934749588370323
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.4017857015132904,
+      0.0,
+      0.0,
+      0.034285712987184525,
+      -1.0
+    ],
+    "timestamp": 1.2999999523162842
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 14,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_14.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_14.png",
+    "task_index": 0,
+    "state": [
+      -0.08618911355733871,
+      -0.010424060747027397,
+      1.1430487632751465,
+      3.127471446990967,
+      0.021874846890568733,
+      0.18681059777736664,
+      0.03936683386564255,
+      -0.0393759049475193
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.4312500059604645,
+      0.0,
+      0.012857142835855484,
+      0.039642855525016785,
+      -1.0
+    ],
+    "timestamp": 1.399999976158142
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 15,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_15.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_15.png",
+    "task_index": 0,
+    "state": [
+      -0.07501957565546036,
+      -0.010190385393798351,
+      1.1362378597259521,
+      3.1270763874053955,
+      0.02859719656407833,
+      0.19171948730945587,
+      0.03939352557063103,
+      -0.03940313681960106
+    ],
+    "actions": [
+      0.9375,
+      0.0,
+      -0.46071428060531616,
+      0.0,
+      0.01607142947614193,
+      0.040714286267757416,
+      -1.0
+    ],
+    "timestamp": 1.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 16,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_16.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_16.png",
+    "task_index": 0,
+    "state": [
+      -0.0638013705611229,
+      -0.009999883361160755,
+      1.1290925741195679,
+      3.1268248558044434,
+      0.036095019429922104,
+      0.19492347538471222,
+      0.03941900283098221,
+      -0.039429277181625366
+    ],
+    "actions": [
+      0.9214285612106323,
+      0.0,
+      -0.5169642567634583,
+      0.0,
+      0.028928572311997414,
+      0.04714285582304001,
+      -1.0
+    ],
+    "timestamp": 1.600000023841858
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 17,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_17.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_17.png",
+    "task_index": 0,
+    "state": [
+      -0.05267469957470894,
+      -0.009815839119255543,
+      1.1214147806167603,
+      3.1267600059509277,
+      0.044416021555662155,
+      0.19591687619686127,
+      0.039443500339984894,
+      -0.039454180747270584
+    ],
+    "actions": [
+      0.918749988079071,
+      0.0,
+      -0.5303571224212646,
+      0.0,
+      0.029999999329447746,
+      0.04821428656578064,
+      -1.0
+    ],
+    "timestamp": 1.7000000476837158
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 18,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_18.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_18.png",
+    "task_index": 0,
+    "state": [
+      -0.04159078747034073,
+      -0.009649773128330708,
+      1.113357663154602,
+      3.12681245803833,
+      0.05344647169113159,
+      0.19544625282287598,
+      0.039466843008995056,
+      -0.0394781194627285
+    ],
+    "actions": [
+      0.9080356955528259,
+      0.0,
+      -0.5491071343421936,
+      0.0,
+      0.031071428209543228,
+      0.05249999836087227,
+      -1.0
+    ],
+    "timestamp": 1.7999999523162842
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 19,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_19.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_19.png",
+    "task_index": 0,
+    "state": [
+      -0.030523093417286873,
+      -0.009493069723248482,
+      1.1051242351531982,
+      3.126922130584717,
+      0.06307824701070786,
+      0.19431737065315247,
+      0.03948923945426941,
+      -0.03950098156929016
+    ],
+    "actions": [
+      0.9080356955528259,
+      0.0053571430034935474,
+      -0.5383928418159485,
+      0.0,
+      0.023571427911520004,
+      0.05464285612106323,
+      -1.0
+    ],
+    "timestamp": 1.899999976158142
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 20,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_20.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_20.png",
+    "task_index": 0,
+    "state": [
+      -0.01940254122018814,
+      -0.009317023679614067,
+      1.096935510635376,
+      3.1270158290863037,
+      0.07333450764417648,
+      0.19358466565608978,
+      0.03951070085167885,
+      -0.03952283412218094
+    ],
+    "actions": [
+      0.9133928418159485,
+      0.01607142947614193,
+      -0.5303571224212646,
+      0.0,
+      0.020357143133878708,
+      0.055714286863803864,
+      -1.0
+    ],
+    "timestamp": 2.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 21,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_21.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_21.png",
+    "task_index": 0,
+    "state": [
+      -0.008213121443986893,
+      -0.009080680087208748,
+      1.0888911485671997,
+      3.1270694732666016,
+      0.08400657773017883,
+      0.19377091526985168,
+      0.03953133150935173,
+      -0.03954366222023964
+    ],
+    "actions": [
+      0.9294642806053162,
+      0.0401785708963871,
+      -0.49017858505249023,
+      0.0,
+      0.013928571715950966,
+      0.055714286863803864,
+      -1.0
+    ],
+    "timestamp": 2.0999999046325684
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 22,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_22.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_22.png",
+    "task_index": 0,
+    "state": [
+      0.0030929024796932936,
+      -0.008686975575983524,
+      1.0811543464660645,
+      3.1270928382873535,
+      0.09494133293628693,
+      0.1952763795852661,
+      0.039551280438899994,
+      -0.039563391357660294
+    ],
+    "actions": [
+      0.9375,
+      0.05892857164144516,
+      -0.46875,
+      -0.004285714123398066,
+      0.012857142835855484,
+      0.051428571343421936,
+      -1.0
+    ],
+    "timestamp": 2.200000047683716
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 23,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_23.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_23.png",
+    "task_index": 0,
+    "state": [
+      0.014467095956206322,
+      -0.008181724697351456,
+      1.0737507343292236,
+      3.126863718032837,
+      0.10566715896129608,
+      0.19778285920619965,
+      0.0395701639354229,
+      -0.03958248719573021
+    ],
+    "actions": [
+      0.9375,
+      0.10446428507566452,
+      -0.4178571403026581,
+      -0.010714286006987095,
+      0.009642857126891613,
+      0.05249999836087227,
+      -1.0
+    ],
+    "timestamp": 2.299999952316284
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 24,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_24.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_24.png",
+    "task_index": 0,
+    "state": [
+      0.025842750445008278,
+      -0.007442109752446413,
+      1.0667914152145386,
+      3.1262245178222656,
+      0.11634340137243271,
+      0.2009653002023697,
+      0.039588671177625656,
+      -0.03960033506155014
+    ],
+    "actions": [
+      0.9375,
+      0.13660714030265808,
+      -0.38035714626312256,
+      -0.013928571715950966,
+      0.013928571715950966,
+      0.05249999836087227,
+      -1.0
+    ],
+    "timestamp": 2.4000000953674316
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 25,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_25.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_25.png",
+    "task_index": 0,
+    "state": [
+      0.03712727874517441,
+      -0.006341420579701662,
+      1.0603272914886475,
+      3.1251919269561768,
+      0.1271553784608841,
+      0.20429345965385437,
+      0.03960646688938141,
+      -0.039617326110601425
+    ],
+    "actions": [
+      0.9375,
+      0.1339285671710968,
+      -0.3642857074737549,
+      -0.017142856493592262,
+      0.019285714253783226,
+      0.04714285582304001,
+      -1.0
+    ],
+    "timestamp": 2.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 26,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_26.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_26.png",
+    "task_index": 0,
+    "state": [
+      0.0482771098613739,
+      -0.005067348945885897,
+      1.0541579723358154,
+      3.1236648559570312,
+      0.13739895820617676,
+      0.2072635293006897,
+      0.03962292894721031,
+      -0.039634160697460175
+    ],
+    "actions": [
+      0.9375,
+      0.03482142835855484,
+      -0.3642857074737549,
+      -0.004285714123398066,
+      0.034285712987184525,
+      0.03214285895228386,
+      -1.0
+    ],
+    "timestamp": 2.5999999046325684
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 27,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_27.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_27.png",
+    "task_index": 0,
+    "state": [
+      0.05920429155230522,
+      -0.004067127592861652,
+      1.0479719638824463,
+      3.1221487522125244,
+      0.14520300924777985,
+      0.2091343253850937,
+      0.039637643843889236,
+      -0.03965131565928459
+    ],
+    "actions": [
+      0.8571428656578064,
+      -0.03482142835855484,
+      -0.40714284777641296,
+      0.0,
+      0.03642857074737549,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 2.700000047683716
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 28,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_28.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_28.png",
+    "task_index": 0,
+    "state": [
+      0.06962272524833679,
+      -0.003850537585094571,
+      1.0415581464767456,
+      3.1212446689605713,
+      0.14823362231254578,
+      0.20868507027626038,
+      0.03965092822909355,
+      -0.039668526500463486
+    ],
+    "actions": [
+      0.7848214507102966,
+      -0.06160714104771614,
+      -0.39642858505249023,
+      0.0,
+      0.03321428596973419,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 2.799999952316284
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 29,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_29.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_29.png",
+    "task_index": 0,
+    "state": [
+      0.07941485941410065,
+      -0.004186998121440411,
+      1.0352307558059692,
+      3.120892286300659,
+      0.14833323657512665,
+      0.206360325217247,
+      0.039664432406425476,
+      -0.03968420624732971
+    ],
+    "actions": [
+      0.7124999761581421,
+      -0.10178571194410324,
+      -0.4151785671710968,
+      0.0,
+      0.028928572311997414,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 2.9000000953674316
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 30,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_30.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_30.png",
+    "task_index": 0,
+    "state": [
+      0.08857395499944687,
+      -0.0049248491413891315,
+      1.0291210412979126,
+      3.1206932067871094,
+      0.14769196510314941,
+      0.20290179550647736,
+      0.0396772101521492,
+      -0.039699360728263855
+    ],
+    "actions": [
+      0.6080357432365417,
+      -0.13124999403953552,
+      -0.43660715222358704,
+      0.0,
+      0.007499999832361937,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 31,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_31.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_31.png",
+    "task_index": 0,
+    "state": [
+      0.09707402437925339,
+      -0.00606949208304286,
+      1.023240089416504,
+      3.120389461517334,
+      0.14699871838092804,
+      0.19910264015197754,
+      0.03968944773077965,
+      -0.03971385583281517
+    ],
+    "actions": [
+      0.4446428716182709,
+      -0.19821429252624512,
+      -0.47410714626312256,
+      0.0,
+      0.0,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.0999999046325684
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 32,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_32.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_32.png",
+    "task_index": 0,
+    "state": [
+      0.1044304296374321,
+      -0.007751325611025095,
+      1.0174882411956787,
+      3.1201395988464355,
+      0.14624807238578796,
+      0.19308653473854065,
+      0.0397007055580616,
+      -0.039728183299303055
+    ],
+    "actions": [
+      0.31339284777641296,
+      -0.21160714328289032,
+      -0.5410714149475098,
+      0.0,
+      0.0,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.200000047683716
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 33,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_33.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_33.png",
+    "task_index": 0,
+    "state": [
+      0.11051437258720398,
+      -0.009866777807474136,
+      1.0116456747055054,
+      3.1202547550201416,
+      0.14569824934005737,
+      0.18477323651313782,
+      0.03971190005540848,
+      -0.039741478860378265
+    ],
+    "actions": [
+      0.1473214328289032,
+      -0.19017857313156128,
+      -0.6160714030265808,
+      0.0,
+      -0.010714286006987095,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.299999952316284
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 34,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_34.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_34.png",
+    "task_index": 0,
+    "state": [
+      0.11521637439727783,
+      -0.012145242653787136,
+      1.005438208580017,
+      3.1208696365356445,
+      0.1453634649515152,
+      0.1738692671060562,
+      0.03972306847572327,
+      -0.0397537425160408
+    ],
+    "actions": [
+      0.0,
+      -0.17142857611179352,
+      -0.7205356955528259,
+      0.0,
+      -0.027857143431901932,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.4000000953674316
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 35,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_35.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_35.png",
+    "task_index": 0,
+    "state": [
+      0.11860962212085724,
+      -0.014378788881003857,
+      0.9987252950668335,
+      3.1218459606170654,
+      0.1451299488544464,
+      0.16121914982795715,
+      0.039734143763780594,
+      -0.03976510465145111
+    ],
+    "actions": [
+      -0.11785714328289032,
+      -0.08303571492433548,
+      -0.768750011920929,
+      0.0,
+      -0.04821428656578064,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 36,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_36.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_36.png",
+    "task_index": 0,
+    "state": [
+      0.12094148248434067,
+      -0.016119839623570442,
+      0.9916216731071472,
+      3.12335205078125,
+      0.14522062242031097,
+      0.148532897233963,
+      0.039745964109897614,
+      -0.03977475315332413
+    ],
+    "actions": [
+      -0.20892857015132904,
+      -0.08571428805589676,
+      -0.8303571343421936,
+      0.0,
+      -0.040714286267757416,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.5999999046325684
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 37,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_37.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_37.png",
+    "task_index": 0,
+    "state": [
+      0.12215981632471085,
+      -0.017478691413998604,
+      0.9839817881584167,
+      3.125006914138794,
+      0.1453200876712799,
+      0.1350967139005661,
+      0.03975661098957062,
+      -0.03978465870022774
+    ],
+    "actions": [
+      -0.32678571343421936,
+      -0.08571428805589676,
+      -0.8303571343421936,
+      0.0,
+      -0.04928571358323097,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.700000047683716
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 38,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_38.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_38.png",
+    "task_index": 0,
+    "state": [
+      0.12226247787475586,
+      -0.018741445615887642,
+      0.9760922789573669,
+      3.126579761505127,
+      0.14525000751018524,
+      0.12021686881780624,
+      0.03976665437221527,
+      -0.03979429230093956
+    ],
+    "actions": [
+      -0.4017857015132904,
+      -0.16875000298023224,
+      -0.8169642686843872,
+      0.0,
+      -0.04285714402794838,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.799999952316284
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 39,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_39.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_39.png",
+    "task_index": 0,
+    "state": [
+      0.12135911732912064,
+      -0.020374083891510963,
+      0.9683665633201599,
+      3.127688407897949,
+      0.1447882056236267,
+      0.10402359068393707,
+      0.03977501764893532,
+      -0.03980475664138794
+    ],
+    "actions": [
+      -0.47678571939468384,
+      -0.19017857313156128,
+      -0.7741071581840515,
+      0.0,
+      -0.062142856419086456,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 3.9000000953674316
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 40,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_40.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_40.png",
+    "task_index": 0,
+    "state": [
+      0.1197568029165268,
+      -0.022471176460385323,
+      0.9611797332763672,
+      3.1284844875335693,
+      0.144124835729599,
+      0.08807861804962158,
+      0.03978332504630089,
+      -0.03981446474790573
+    ],
+    "actions": [
+      -0.49017858505249023,
+      -0.20892857015132904,
+      -0.7660714387893677,
+      0.0,
+      -0.06750000268220901,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 41,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_41.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_41.png",
+    "task_index": 0,
+    "state": [
+      0.1177271381020546,
+      -0.0248650461435318,
+      0.9544228315353394,
+      3.129147529602051,
+      0.14345112442970276,
+      0.07418933510780334,
+      0.03979135677218437,
+      -0.039823681116104126
+    ],
+    "actions": [
+      -0.5303571224212646,
+      -0.18482142686843872,
+      -0.7741071581840515,
+      0.0,
+      -0.08464285731315613,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.099999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 42,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_42.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_42.png",
+    "task_index": 0,
+    "state": [
+      0.11532197147607803,
+      -0.027312999591231346,
+      0.947722852230072,
+      3.129911184310913,
+      0.142910897731781,
+      0.06272242218255997,
+      0.03979969024658203,
+      -0.03983185440301895
+    ],
+    "actions": [
+      -0.5303571224212646,
+      -0.19017857313156128,
+      -0.7848214507102966,
+      0.0,
+      -0.09642857313156128,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 43,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_43.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_43.png",
+    "task_index": 0,
+    "state": [
+      0.11267237365245819,
+      -0.029759598895907402,
+      0.9409276247024536,
+      3.130634307861328,
+      0.14242592453956604,
+      0.054586559534072876,
+      0.03980749472975731,
+      -0.03983984887599945
+    ],
+    "actions": [
+      -0.5035714507102966,
+      -0.12857143580913544,
+      -0.7580357193946838,
+      0.0,
+      -0.09749999642372131,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 44,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_44.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_44.png",
+    "task_index": 0,
+    "state": [
+      0.10984121263027191,
+      -0.03193493187427521,
+      0.9339651465415955,
+      3.131500720977783,
+      0.14214658737182617,
+      0.05006568133831024,
+      0.039815958589315414,
+      -0.0398465059697628
+    ],
+    "actions": [
+      -0.47678571939468384,
+      -0.09642857313156128,
+      -0.7232142686843872,
+      0.0,
+      -0.09749999642372131,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.400000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 45,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_45.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_45.png",
+    "task_index": 0,
+    "state": [
+      0.10688896477222443,
+      -0.03366326913237572,
+      0.9270188808441162,
+      3.132446527481079,
+      0.1420096457004547,
+      0.04899986460804939,
+      0.03982418775558472,
+      -0.03987443819642067
+    ],
+    "actions": [
+      -0.4017857015132904,
+      -0.03482142835855484,
+      -0.6133928298950195,
+      -0.007499999832361937,
+      -0.0867857113480568,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 46,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_46.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_46.png",
+    "task_index": 0,
+    "state": [
+      0.10502155870199203,
+      -0.03470384329557419,
+      0.9220556020736694,
+      3.133366107940674,
+      0.14079244434833527,
+      0.055981483310461044,
+      0.03983259201049805,
+      -0.039968423545360565
+    ],
+    "actions": [
+      -0.32678571343421936,
+      -0.013392857275903225,
+      -0.5223214030265808,
+      -0.017142856493592262,
+      -0.07607142627239227,
+      -0.0,
+      -1.0
+    ],
+    "timestamp": 4.599999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 47,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_47.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_47.png",
+    "task_index": 0,
+    "state": [
+      0.10420697927474976,
+      -0.035219211131334305,
+      0.9192183613777161,
+      3.1334891319274902,
+      0.13837552070617676,
+      0.06853412836790085,
+      0.03983993083238602,
+      -0.03999614715576172
+    ],
+    "actions": [
+      -0.25982141494750977,
+      0.0,
+      -0.3776785731315613,
+      -0.02678571455180645,
+      -0.05464285612106323,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 4.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 48,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_48.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_48.png",
+    "task_index": 0,
+    "state": [
+      0.1038399413228035,
+      -0.03535965830087662,
+      0.9180729389190674,
+      3.132481098175049,
+      0.1361711174249649,
+      0.0817437618970871,
+      0.03944763168692589,
+      -0.03966545686125755
+    ],
+    "actions": [
+      -0.23035714030265808,
+      0.0,
+      -0.30000001192092896,
+      -0.029999999329447746,
+      -0.034285712987184525,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 4.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 49,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_49.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_49.png",
+    "task_index": 0,
+    "state": [
+      0.10342474281787872,
+      -0.03505690023303032,
+      0.91790771484375,
+      3.1306874752044678,
+      0.13440945744514465,
+      0.09248227626085281,
+      0.03733464330434799,
+      -0.03880590945482254
+    ],
+    "actions": [
+      -0.23303571343421936,
+      0.0,
+      -0.19821429252624512,
+      -0.034285712987184525,
+      -0.012857142835855484,
+      0.002142857061699033,
+      1.0
+    ],
+    "timestamp": 4.900000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 50,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_50.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_50.png",
+    "task_index": 0,
+    "state": [
+      0.10279695689678192,
+      -0.034478530287742615,
+      0.9184229373931885,
+      3.128286361694336,
+      0.13290680944919586,
+      0.09979181736707687,
+      0.03396280109882355,
+      -0.03747635707259178
+    ],
+    "actions": [
+      -0.21964286267757416,
+      0.0,
+      -0.11517857015132904,
+      -0.039642855525016785,
+      0.0,
+      0.006428571417927742,
+      1.0
+    ],
+    "timestamp": 5.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 51,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_51.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_51.png",
+    "task_index": 0,
+    "state": [
+      0.10202264785766602,
+      -0.03340578079223633,
+      0.9196411371231079,
+      3.1254866123199463,
+      0.1321994811296463,
+      0.10399769991636276,
+      0.029880912974476814,
+      -0.035071756690740585
+    ],
+    "actions": [
+      -0.1741071492433548,
+      0.0,
+      -0.04553571343421936,
+      -0.04714285582304001,
+      0.0,
+      0.011785713955760002,
+      1.0
+    ],
+    "timestamp": 5.099999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 52,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_52.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_52.png",
+    "task_index": 0,
+    "state": [
+      0.1013544499874115,
+      -0.032318152487277985,
+      0.9214769005775452,
+      3.1213977336883545,
+      0.13285303115844727,
+      0.10703001916408539,
+      0.025384031236171722,
+      -0.030706677585840225
+    ],
+    "actions": [
+      -0.15267856419086456,
+      0.0,
+      -0.0,
+      -0.04928571358323097,
+      0.0,
+      0.012857142835855484,
+      1.0
+    ],
+    "timestamp": 5.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 53,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_53.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_53.png",
+    "task_index": 0,
+    "state": [
+      0.10064277797937393,
+      -0.03175446763634682,
+      0.9235184192657471,
+      3.1158640384674072,
+      0.1346001774072647,
+      0.10872495174407959,
+      0.020654110237956047,
+      -0.024389315396547318
+    ],
+    "actions": [
+      -0.1071428582072258,
+      0.0,
+      -0.0,
+      -0.055714286863803864,
+      0.002142857061699033,
+      0.013928571715950966,
+      1.0
+    ],
+    "timestamp": 5.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 54,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_54.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_54.png",
+    "task_index": 0,
+    "state": [
+      0.09970161318778992,
+      -0.03176219388842583,
+      0.9249757528305054,
+      3.109318971633911,
+      0.13705383241176605,
+      0.10913055390119553,
+      0.01580618880689144,
+      -0.01774863339960575
+    ],
+    "actions": [
+      -0.06428571790456772,
+      0.0,
+      0.04821428656578064,
+      -0.07071428745985031,
+      0.003214285708963871,
+      0.01607142947614193,
+      1.0
+    ],
+    "timestamp": 5.400000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 55,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_55.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_55.png",
+    "task_index": 0,
+    "state": [
+      0.0987870916724205,
+      -0.03174998611211777,
+      0.9260468482971191,
+      3.1019484996795654,
+      0.14039523899555206,
+      0.10952913016080856,
+      0.010913977399468422,
+      -0.012005958706140518
+    ],
+    "actions": [
+      0.0,
+      0.01607142947614193,
+      0.10178571194410324,
+      -0.07285714149475098,
+      0.011785713955760002,
+      0.017142856493592262,
+      1.0
+    ],
+    "timestamp": 5.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 56,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_56.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_56.png",
+    "task_index": 0,
+    "state": [
+      0.09821774065494537,
+      -0.03166770190000534,
+      0.9273378252983093,
+      3.0936102867126465,
+      0.14410702884197235,
+      0.11082277446985245,
+      0.006754602305591106,
+      -0.0073942216113209724
+    ],
+    "actions": [
+      0.0,
+      0.0,
+      0.15535713732242584,
+      -0.06750000268220901,
+      0.025714285671710968,
+      0.013928571715950966,
+      1.0
+    ],
+    "timestamp": 5.599999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 57,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_57.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_57.png",
+    "task_index": 0,
+    "state": [
+      0.09774969518184662,
+      -0.031551897525787354,
+      0.9289547204971313,
+      3.085008382797241,
+      0.14754903316497803,
+      0.11087648570537567,
+      0.005503995344042778,
+      -0.005849768873304129
+    ],
+    "actions": [
+      0.0,
+      0.0,
+      0.2008928507566452,
+      -0.06321428716182709,
+      0.03321428596973419,
+      0.009642857126891613,
+      1.0
+    ],
+    "timestamp": 5.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 58,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_58.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_58.png",
+    "task_index": 0,
+    "state": [
+      0.09714891761541367,
+      -0.03151768073439598,
+      0.9308837056159973,
+      3.0766563415527344,
+      0.15031516551971436,
+      0.10843884944915771,
+      0.005078593268990517,
+      -0.00528560159727931
+    ],
+    "actions": [
+      0.02946428582072258,
+      0.0,
+      0.27321428060531616,
+      -0.06428571790456772,
+      0.040714286267757416,
+      0.009642857126891613,
+      1.0
+    ],
+    "timestamp": 5.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 59,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_59.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_59.png",
+    "task_index": 0,
+    "state": [
+      0.09661395847797394,
+      -0.03155296668410301,
+      0.9333723187446594,
+      3.0684704780578613,
+      0.15274961292743683,
+      0.1047443225979805,
+      0.0044125583954155445,
+      -0.004558940883725882
+    ],
+    "actions": [
+      0.11785714328289032,
+      0.0,
+      0.3723214268684387,
+      -0.05892857164144516,
+      0.06535714119672775,
+      0.008571428246796131,
+      1.0
+    ],
+    "timestamp": 5.900000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 60,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_60.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_60.png",
+    "task_index": 0,
+    "state": [
+      0.09638036787509918,
+      -0.031535856425762177,
+      0.9365896582603455,
+      3.0605790615081787,
+      0.15516451001167297,
+      0.10056228935718536,
+      0.0031733307987451553,
+      -0.0033247836399823427
+    ],
+    "actions": [
+      0.18214285373687744,
+      0.0,
+      0.5276785492897034,
+      -0.05785714462399483,
+      0.06428571790456772,
+      0.003214285708963871,
+      1.0
+    ],
+    "timestamp": 6.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 61,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_61.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_61.png",
+    "task_index": 0,
+    "state": [
+      0.09673342853784561,
+      -0.03152608871459961,
+      0.941118597984314,
+      3.052960157394409,
+      0.15706387162208557,
+      0.09659378975629807,
+      0.002588325645774603,
+      -0.0027522474993020296
+    ],
+    "actions": [
+      0.19017857313156128,
+      0.008035714738070965,
+      0.7017857432365417,
+      -0.055714286863803864,
+      0.07178571075201035,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 6.099999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 62,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_62.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_62.png",
+    "task_index": 0,
+    "state": [
+      0.09746450185775757,
+      -0.031485415995121,
+      0.9475984573364258,
+      3.045701742172241,
+      0.15817517042160034,
+      0.09125205874443054,
+      0.0023008252028375864,
+      -0.002478332258760929
+    ],
+    "actions": [
+      0.1607142835855484,
+      0.1205357164144516,
+      0.9267857074737549,
+      -0.07178571075201035,
+      0.06321428716182709,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 6.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 63,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_63.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_63.png",
+    "task_index": 0,
+    "state": [
+      0.09840847551822662,
+      -0.03104696236550808,
+      0.9568762183189392,
+      3.0383825302124023,
+      0.1591878980398178,
+      0.08366057276725769,
+      0.0022845035418868065,
+      -0.002462692093104124
+    ],
+    "actions": [
+      0.05624999850988388,
+      0.2946428656578064,
+      0.9214285612106323,
+      -0.06964285671710968,
+      0.07285714149475098,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 6.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 64,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_64.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_64.png",
+    "task_index": 0,
+    "state": [
+      0.09894777089357376,
+      -0.02920861914753914,
+      0.9680653214454651,
+      3.031526565551758,
+      0.16079407930374146,
+      0.07223938405513763,
+      0.0022796308621764183,
+      -0.0024535327684134245
+    ],
+    "actions": [
+      0.0,
+      0.47678571939468384,
+      0.918749988079071,
+      -0.07821428775787354,
+      0.04714285582304001,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 6.400000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 65,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_65.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_65.png",
+    "task_index": 0,
+    "state": [
+      0.09916907548904419,
+      -0.025488518178462982,
+      0.9801248908042908,
+      3.0249011516571045,
+      0.1628718376159668,
+      0.05991547927260399,
+      0.002278537955135107,
+      -0.0024477981496602297
+    ],
+    "actions": [
+      -0.008035714738070965,
+      0.5973214507102966,
+      0.8732143044471741,
+      -0.08571428805589676,
+      0.03750000149011612,
+      0.004285714123398066,
+      1.0
+    ],
+    "timestamp": 6.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 66,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_66.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_66.png",
+    "task_index": 0,
+    "state": [
+      0.0992908775806427,
+      -0.02001393586397171,
+      0.9923368692398071,
+      3.017465829849243,
+      0.16538099944591522,
+      0.04942404106259346,
+      0.0022792224772274494,
+      -0.0024440225679427385
+    ],
+    "actions": [
+      -0.05624999850988388,
+      0.6830357313156128,
+      0.8169642686843872,
+      -0.0867857113480568,
+      0.006428571417927742,
+      0.009642857126891613,
+      1.0
+    ],
+    "timestamp": 6.599999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 67,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_67.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_67.png",
+    "task_index": 0,
+    "state": [
+      0.09931355714797974,
+      -0.013009523041546345,
+      1.0042167901992798,
+      3.0090456008911133,
+      0.1682983785867691,
+      0.04155958816409111,
+      0.0022809584625065327,
+      -0.0024411261547356844
+    ],
+    "actions": [
+      -0.08303571492433548,
+      0.7124999761581421,
+      0.731249988079071,
+      -0.07928571105003357,
+      0.0,
+      0.009642857126891613,
+      1.0
+    ],
+    "timestamp": 6.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 68,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_68.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_68.png",
+    "task_index": 0,
+    "state": [
+      0.09905426949262619,
+      -0.004824802279472351,
+      1.0153340101242065,
+      3.0001437664031982,
+      0.17104631662368774,
+      0.03581412881612778,
+      0.0022829787340015173,
+      -0.0024388604797422886
+    ],
+    "actions": [
+      -0.04553571343421936,
+      0.7232142686843872,
+      0.6241071224212646,
+      -0.051428571343421936,
+      0.0,
+      0.009642857126891613,
+      1.0
+    ],
+    "timestamp": 6.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 69,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_69.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_69.png",
+    "task_index": 0,
+    "state": [
+      0.09865252673625946,
+      0.004334874451160431,
+      1.025071620941162,
+      2.992332696914673,
+      0.17339055240154266,
+      0.03279222548007965,
+      0.0022856646683067083,
+      -0.002436370123177767
+    ],
+    "actions": [
+      -0.05089285597205162,
+      0.7285714149475098,
+      0.5383928418159485,
+      -0.03642857074737549,
+      -0.007499999832361937,
+      0.008571428246796131,
+      1.0
+    ],
+    "timestamp": 6.900000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 70,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_70.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_70.png",
+    "task_index": 0,
+    "state": [
+      0.09817425906658173,
+      0.014030620455741882,
+      1.033327341079712,
+      2.9862585067749023,
+      0.17523108422756195,
+      0.03211641684174538,
+      0.0022876947186887264,
+      -0.0024345999117940664
+    ],
+    "actions": [
+      -0.04285714402794838,
+      0.75,
+      0.4580357074737549,
+      -0.02250000089406967,
+      -0.027857143431901932,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 71,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_71.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_71.png",
+    "task_index": 0,
+    "state": [
+      0.0977834016084671,
+      0.02400837652385235,
+      1.040465235710144,
+      2.9818403720855713,
+      0.17597109079360962,
+      0.03433163836598396,
+      0.002289562951773405,
+      -0.0024330078158527613
+    ],
+    "actions": [
+      -0.06428571790456772,
+      0.7553571462631226,
+      0.3883928656578064,
+      -0.014999999664723873,
+      -0.024642856791615486,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.099999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 72,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_72.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_72.png",
+    "task_index": 0,
+    "state": [
+      0.09725005179643631,
+      0.03413771092891693,
+      1.0465224981307983,
+      2.978794813156128,
+      0.1757931262254715,
+      0.03770134970545769,
+      0.002291320823132992,
+      -0.0024314664769917727
+    ],
+    "actions": [
+      -0.04553571343421936,
+      0.768750011920929,
+      0.30000001192092896,
+      -0.0010714285308495164,
+      -0.027857143431901932,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 73,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_73.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_73.png",
+    "task_index": 0,
+    "state": [
+      0.0966346338391304,
+      0.04445173963904381,
+      1.0514591932296753,
+      2.9771792888641357,
+      0.17552052438259125,
+      0.04220537096261978,
+      0.002293532947078347,
+      -0.002429534448310733
+    ],
+    "actions": [
+      -0.01875000074505806,
+      0.7982142567634583,
+      0.22232143580913544,
+      0.0,
+      -0.04285714402794838,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 74,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_74.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_74.png",
+    "task_index": 0,
+    "state": [
+      0.09625402092933655,
+      0.05490156263113022,
+      1.0553057193756104,
+      2.9766547679901123,
+      0.17528174817562103,
+      0.04940805584192276,
+      0.002295671496540308,
+      -0.002427655039355159
+    ],
+    "actions": [
+      0.0,
+      0.8142856955528259,
+      0.1205357164144516,
+      0.0,
+      -0.03642857074737549,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.400000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 75,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_75.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_75.png",
+    "task_index": 0,
+    "state": [
+      0.09596122056245804,
+      0.06542142480611801,
+      1.0578157901763916,
+      2.9766011238098145,
+      0.17518174648284912,
+      0.05802576616406441,
+      0.002298113889992237,
+      -0.0024254070594906807
+    ],
+    "actions": [
+      0.0,
+      0.8223214149475098,
+      0.0401785708963871,
+      0.0,
+      -0.03750000149011612,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 76,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_76.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_76.png",
+    "task_index": 0,
+    "state": [
+      0.09563902765512466,
+      0.07597796618938446,
+      1.0589995384216309,
+      2.9767518043518066,
+      0.17519181966781616,
+      0.06692899763584137,
+      0.0023006931878626347,
+      -0.002423032419756055
+    ],
+    "actions": [
+      0.0,
+      0.8330357074737549,
+      -0.0,
+      0.0,
+      -0.031071428209543228,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.599999904632568
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 77,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_77.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_77.png",
+    "task_index": 0,
+    "state": [
+      0.09521005302667618,
+      0.08659770339727402,
+      1.0592153072357178,
+      2.9770219326019287,
+      0.17527657747268677,
+      0.07567258179187775,
+      0.002303485292941332,
+      -0.002420457312837243
+    ],
+    "actions": [
+      0.0,
+      0.8357142806053162,
+      -0.0,
+      0.0,
+      -0.031071428209543228,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 78,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_78.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_78.png",
+    "task_index": 0,
+    "state": [
+      0.09470639377832413,
+      0.0972713828086853,
+      1.0590009689331055,
+      2.9773271083831787,
+      0.17536097764968872,
+      0.08440971374511719,
+      0.0023061372339725494,
+      -0.0024180621840059757
+    ],
+    "actions": [
+      0.0,
+      0.8383928537368774,
+      -0.0,
+      0.0,
+      -0.034285712987184525,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 79,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_79.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_79.png",
+    "task_index": 0,
+    "state": [
+      0.0942012146115303,
+      0.10797765105962753,
+      1.0587050914764404,
+      2.977602243423462,
+      0.175375834107399,
+      0.09355703741312027,
+      0.002308687660843134,
+      -0.002415793715044856
+    ],
+    "actions": [
+      0.0,
+      0.84375,
+      -0.02142857201397419,
+      0.0,
+      -0.03321428596973419,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 7.900000095367432
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 80,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_80.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_80.png",
+    "task_index": 0,
+    "state": [
+      0.0936707928776741,
+      0.11872696876525879,
+      1.0582408905029297,
+      2.9778921604156494,
+      0.17538094520568848,
+      0.10296802967786789,
+      0.0023113421630114317,
+      -0.002413427457213402
+    ],
+    "actions": [
+      0.0053571430034935474,
+      0.84375,
+      -0.04285714402794838,
+      0.0,
+      -0.03321428596973419,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 81,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_81.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_81.png",
+    "task_index": 0,
+    "state": [
+      0.09313040971755981,
+      0.1294928640127182,
+      1.0574774742126465,
+      2.978212356567383,
+      0.1753944754600525,
+      0.11264482140541077,
+      0.002313935197889805,
+      -0.002411135472357273
+    ],
+    "actions": [
+      0.0053571430034935474,
+      0.84375,
+      -0.05089285597205162,
+      0.0,
+      -0.03214285895228386,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.100000381469727
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 82,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_82.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_82.png",
+    "task_index": 0,
+    "state": [
+      0.09257344901561737,
+      0.14024853706359863,
+      1.0564602613449097,
+      2.978548526763916,
+      0.1753939837217331,
+      0.12245863676071167,
+      0.002316451631486416,
+      -0.0024089249782264233
+    ],
+    "actions": [
+      0.0026785715017467737,
+      0.8491071462631226,
+      -0.09642857313156128,
+      0.0,
+      -0.028928572311997414,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 83,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_83.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_83.png",
+    "task_index": 0,
+    "state": [
+      0.09195242077112198,
+      0.15101726353168488,
+      1.055040717124939,
+      2.9789764881134033,
+      0.1754610240459442,
+      0.13209891319274902,
+      0.0023191566579043865,
+      -0.0024065347388386726
+    ],
+    "actions": [
+      0.0,
+      0.8517857193946838,
+      -0.12857143580913544,
+      0.0,
+      -0.02678571455180645,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 84,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_84.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_84.png",
+    "task_index": 0,
+    "state": [
+      0.09126140922307968,
+      0.16179880499839783,
+      1.0530999898910522,
+      2.9795103073120117,
+      0.17560052871704102,
+      0.1415039300918579,
+      0.002321904757991433,
+      -0.0024041160941123962
+    ],
+    "actions": [
+      0.0,
+      0.862500011920929,
+      -0.1875,
+      0.0,
+      -0.02678571455180645,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.399999618530273
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 85,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_85.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_85.png",
+    "task_index": 0,
+    "state": [
+      0.09053779393434525,
+      0.17262104153633118,
+      1.050542950630188,
+      2.980186939239502,
+      0.17583642899990082,
+      0.1509508341550827,
+      0.0023249159567058086,
+      -0.002401449717581272
+    ],
+    "actions": [
+      0.0,
+      0.8196428418159485,
+      -0.3107142746448517,
+      0.0,
+      -0.013928571715950966,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 86,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_86.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_86.png",
+    "task_index": 0,
+    "state": [
+      0.08968190103769302,
+      0.18324515223503113,
+      1.0467442274093628,
+      2.9808778762817383,
+      0.1760958433151245,
+      0.15947778522968292,
+      0.00232746172696352,
+      -0.0023992399219423532
+    ],
+    "actions": [
+      0.0401785708963871,
+      0.7526785731315613,
+      -0.3883928656578064,
+      0.0,
+      0.0,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.600000381469727
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 87,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_87.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_87.png",
+    "task_index": 0,
+    "state": [
+      0.08886957168579102,
+      0.19325095415115356,
+      1.0414997339248657,
+      2.9813835620880127,
+      0.17616836726665497,
+      0.16725985705852509,
+      0.002328659873455763,
+      -0.002398432232439518
+    ],
+    "actions": [
+      0.05624999850988388,
+      0.6776785850524902,
+      -0.44732141494750977,
+      0.0,
+      0.0,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 88,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_88.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_88.png",
+    "task_index": 0,
+    "state": [
+      0.08817556500434875,
+      0.20240625739097595,
+      1.0350838899612427,
+      2.9815895557403564,
+      0.17597413063049316,
+      0.1740562468767166,
+      0.002328593749552965,
+      -0.002398905111476779
+    ],
+    "actions": [
+      0.07500000298023224,
+      0.581250011920929,
+      -0.5276785492897034,
+      0.0,
+      0.0,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 89,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_89.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_89.png",
+    "task_index": 0,
+    "state": [
+      0.0876043289899826,
+      0.2105458825826645,
+      1.0276087522506714,
+      2.981471300125122,
+      0.17556928098201752,
+      0.1794687658548355,
+      0.002327124122530222,
+      -0.002400818048045039
+    ],
+    "actions": [
+      0.0401785708963871,
+      0.5491071343421936,
+      -0.5598214268684387,
+      0.0,
+      0.002142857061699033,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 8.899999618530273
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 90,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_90.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_90.png",
+    "task_index": 0,
+    "state": [
+      0.0871528759598732,
+      0.21798217296600342,
+      1.019552230834961,
+      2.9815046787261963,
+      0.17529502511024475,
+      0.18412674963474274,
+      0.0023257758002728224,
+      -0.0024026569444686174
+    ],
+    "actions": [
+      0.013392857275903225,
+      0.4848214387893677,
+      -0.6053571701049805,
+      0.0,
+      0.013928571715950966,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 91,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_91.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_91.png",
+    "task_index": 0,
+    "state": [
+      0.08653578162193298,
+      0.2248205840587616,
+      1.0110896825790405,
+      2.981631278991699,
+      0.17515389621257782,
+      0.18688634037971497,
+      0.002323728520423174,
+      -0.002405175007879734
+    ],
+    "actions": [
+      0.04821428656578064,
+      0.4151785671710968,
+      -0.6321428418159485,
+      0.009642857126891613,
+      0.031071428209543228,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.100000381469727
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 92,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_92.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_92.png",
+    "task_index": 0,
+    "state": [
+      0.08583902567625046,
+      0.2309960275888443,
+      1.0020983219146729,
+      2.982393980026245,
+      0.17504023015499115,
+      0.18790079653263092,
+      0.0023212283849716187,
+      -0.002408218802884221
+    ],
+    "actions": [
+      0.0,
+      0.3241071403026581,
+      -0.6428571343421936,
+      0.013928571715950966,
+      0.0535714291036129,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 93,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_93.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_93.png",
+    "task_index": 0,
+    "state": [
+      0.08482497930526733,
+      0.23630499839782715,
+      0.9926739931106567,
+      2.9838438034057617,
+      0.17484046518802643,
+      0.18500199913978577,
+      0.0023176998365670443,
+      -0.0024122437462210655
+    ],
+    "actions": [
+      0.0,
+      0.26249998807907104,
+      -0.6642857193946838,
+      0.019285714253783226,
+      0.05999999865889549,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 94,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_94.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_94.png",
+    "task_index": 0,
+    "state": [
+      0.08366198092699051,
+      0.24076047539710999,
+      0.9831448793411255,
+      2.98594069480896,
+      0.17481271922588348,
+      0.17919184267520905,
+      0.002313781064003706,
+      -0.002416698494926095
+    ],
+    "actions": [
+      0.0,
+      0.23839285969734192,
+      -0.6348214149475098,
+      0.023571427911520004,
+      0.062142856419086456,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.399999618530273
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 95,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_95.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_95.png",
+    "task_index": 0,
+    "state": [
+      0.08259447664022446,
+      0.24458922445774078,
+      0.9737769961357117,
+      2.9888858795166016,
+      0.1750313639640808,
+      0.1723339706659317,
+      0.002309977076947689,
+      -0.002420995384454727
+    ],
+    "actions": [
+      0.0,
+      0.24642856419086456,
+      -0.6187499761581421,
+      0.02142857201397419,
+      0.05785714462399483,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 96,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_96.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_96.png",
+    "task_index": 0,
+    "state": [
+      0.08168626576662064,
+      0.24804425239562988,
+      0.9647651314735413,
+      2.9924755096435547,
+      0.17557646334171295,
+      0.16543957591056824,
+      0.0023065267596393824,
+      -0.0024248764384537935
+    ],
+    "actions": [
+      0.0,
+      0.21964286267757416,
+      -0.6053571701049805,
+      0.024642856791615486,
+      0.062142856419086456,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.600000381469727
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 97,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_97.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_97.png",
+    "task_index": 0,
+    "state": [
+      0.08082238584756851,
+      0.25121572613716125,
+      0.9559729695320129,
+      2.9964640140533447,
+      0.17601871490478516,
+      0.15830107033252716,
+      0.0023032405879348516,
+      -0.0024285295512527227
+    ],
+    "actions": [
+      0.0,
+      0.19017857313156128,
+      -0.5973214507102966,
+      0.023571427911520004,
+      0.05999999865889549,
+      -0.0,
+      1.0
+    ],
+    "timestamp": 9.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 98,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_98.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_98.png",
+    "task_index": 0,
+    "state": [
+      0.08000869303941727,
+      0.25401005148887634,
+      0.9473578929901123,
+      3.0006015300750732,
+      0.1763417273759842,
+      0.15096449851989746,
+      0.0022997974883764982,
+      -0.0024323195684701204
+    ],
+    "actions": [
+      0.0,
+      0.0,
+      -0.5758928656578064,
+      0.039642855525016785,
+      0.062142856419086456,
+      -0.03750000149011612,
+      1.0
+    ],
+    "timestamp": 9.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 99,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_99.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_99.png",
+    "task_index": 0,
+    "state": [
+      0.07931607961654663,
+      0.25576847791671753,
+      0.9391720294952393,
+      3.0047590732574463,
+      0.17285844683647156,
+      0.14229123294353485,
+      0.0023602605797350407,
+      -0.003039988223463297
+    ],
+    "actions": [
+      0.0,
+      -0.02678571455180645,
+      -0.5223214030265808,
+      0.04500000178813934,
+      0.06964285671710968,
+      -0.04821428656578064,
+      1.0
+    ],
+    "timestamp": 9.899999618530273
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 100,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_100.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_100.png",
+    "task_index": 0,
+    "state": [
+      0.07909399271011353,
+      0.257385790348053,
+      0.9328494071960449,
+      3.0107247829437256,
+      0.16529856622219086,
+      0.13406595587730408,
+      0.0026738722808659077,
+      -0.0050589535385370255
+    ],
+    "actions": [
+      0.0,
+      -0.05089285597205162,
+      -0.39642858505249023,
+      0.027857143431901932,
+      0.07071428745985031,
+      -0.05892857164144516,
+      1.0
+    ],
+    "timestamp": 10.0
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 101,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_101.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_101.png",
+    "task_index": 0,
+    "state": [
+      0.07939725369215012,
+      0.2583582401275635,
+      0.9288665652275085,
+      3.016139507293701,
+      0.1552848070859909,
+      0.12508071959018707,
+      0.003348766826093197,
+      -0.005474648904055357
+    ],
+    "actions": [
+      0.0,
+      -0.05089285597205162,
+      -0.28928571939468384,
+      0.011785713955760002,
+      0.034285712987184525,
+      -0.09642857313156128,
+      1.0
+    ],
+    "timestamp": 10.100000381469727
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 102,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_102.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_102.png",
+    "task_index": 0,
+    "state": [
+      0.0802544429898262,
+      0.25862088799476624,
+      0.9268835783004761,
+      3.0198872089385986,
+      0.14142373204231262,
+      0.11664895713329315,
+      0.0037819407880306244,
+      -0.0055907112546265125
+    ],
+    "actions": [
+      0.0,
+      -0.02410714328289032,
+      -0.18482142686843872,
+      0.0,
+      0.04392857104539871,
+      -0.0835714265704155,
+      -1.0
+    ],
+    "timestamp": 10.199999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 103,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_103.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_103.png",
+    "task_index": 0,
+    "state": [
+      0.08100539445877075,
+      0.25888755917549133,
+      0.926171600818634,
+      3.0219364166259766,
+      0.12662862241268158,
+      0.10731080919504166,
+      0.004210205748677254,
+      -0.00563777657225728
+    ],
+    "actions": [
+      -0.04553571343421936,
+      -0.0053571430034935474,
+      -0.0401785708963871,
+      0.0,
+      0.04285714402794838,
+      -0.08250000327825546,
+      -1.0
+    ],
+    "timestamp": 10.300000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 104,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_104.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_104.png",
+    "task_index": 0,
+    "state": [
+      0.0814257562160492,
+      0.259299099445343,
+      0.9265775084495544,
+      3.0226480960845947,
+      0.1124289333820343,
+      0.09595830738544464,
+      0.00504269590601325,
+      -0.0059654610231518745
+    ],
+    "actions": [
+      0.0,
+      0.0,
+      0.03750000149011612,
+      0.0,
+      0.03857142850756645,
+      -0.09107142686843872,
+      -1.0
+    ],
+    "timestamp": 10.399999618530273
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 105,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_105.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_105.png",
+    "task_index": 0,
+    "state": [
+      0.08182720094919205,
+      0.25956830382347107,
+      0.9275749325752258,
+      3.0227622985839844,
+      0.09712529182434082,
+      0.08474501222372055,
+      0.0071780323050916195,
+      -0.007768551353365183
+    ],
+    "actions": [
+      0.0,
+      0.0,
+      0.3080357015132904,
+      -0.004285714123398066,
+      0.013928571715950966,
+      -0.1039285734295845,
+      -1.0
+    ],
+    "timestamp": 10.5
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 106,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_106.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_106.png",
+    "task_index": 0,
+    "state": [
+      0.08248443156480789,
+      0.2596712112426758,
+      0.9302899837493896,
+      3.021944761276245,
+      0.07949525117874146,
+      0.07431572675704956,
+      0.010696355253458023,
+      -0.011133845895528793
+    ],
+    "actions": [
+      0.05892857164144516,
+      0.0,
+      0.4928571283817291,
+      0.0,
+      0.020357143133878708,
+      -0.09428571164608002,
+      -1.0
+    ],
+    "timestamp": 10.600000381469727
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 107,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_107.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_107.png",
+    "task_index": 0,
+    "state": [
+      0.08352064341306686,
+      0.25997358560562134,
+      0.9357469081878662,
+      3.020700454711914,
+      0.06128630042076111,
+      0.0650486871600151,
+      0.014876152388751507,
+      -0.015239130705595016
+    ],
+    "actions": [
+      0.0,
+      0.0,
+      0.6080357432365417,
+      0.0,
+      0.0,
+      -0.10285714268684387,
+      -1.0
+    ],
+    "timestamp": 10.699999809265137
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 108,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_108.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_108.png",
+    "task_index": 0,
+    "state": [
+      0.08465640246868134,
+      0.26036643981933594,
+      0.9434000849723816,
+      3.019080638885498,
+      0.042801182717084885,
+      0.05580851808190346,
+      0.01941109076142311,
+      -0.01974332146346569
+    ],
+    "actions": [
+      0.0,
+      -0.010714286006987095,
+      0.6294642686843872,
+      0.0,
+      0.0010714285308495164,
+      -0.09749999642372131,
+      -1.0
+    ],
+    "timestamp": 10.800000190734863
+  },
+  {
+    "episode_index": 0,
+    "frame_index": 109,
+    "image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/image_ep0_frame_109.png",
+    "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/dataset_transfer/libero/images/wrist_image_ep0_frame_109.png",
+    "task_index": 0,
+    "state": [
+      0.08570834249258041,
+      0.2607886791229248,
+      0.9523295760154724,
+      3.017057180404663,
+      0.024192897602915764,
+      0.04683689400553703,
+      0.024149538949131966,
+      -0.024464670568704605
+    ],
+    "actions": [
+      0.0,
+      -0.0401785708963871,
+      0.6401785612106323,
+      0.0,
+      0.0,
+      -0.09857142716646194,
+      -1.0
+    ],
+    "timestamp": 10.899999618530273
+  }
+]

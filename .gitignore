@@ -3,6 +3,10 @@ assets/
 checkpoints/
 data/
 wandb/
+test/infer/infer_output
+test/parquet_2_json/libero/images
+test/parquet_2_json/uav_flow/output
+test/infer/trajectory_video/video
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -135,6 +139,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+test/testvenv
 
 # Spyder project settings
 .spyderproject

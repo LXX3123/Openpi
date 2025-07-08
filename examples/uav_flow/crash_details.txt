@@ -1,0 +1,19 @@
+Exception: [Errno 17] File exists: '/home/adminroot/lxx/dataset/uav_flow_lerobot_format/fixed_command/pass/train_without_first_10/uav_flow'
+
+Stack trace:
+Traceback (most recent call last):
+  File "/home/adminroot/lxx/openpi/code/openpi/examples/uav_flow/convert_uav_flow_data_to_lerobot_without_first_10.py", line 227, in main
+    dataset = LeRobotDataset.create(
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/adminroot/lxx/openpi/code/openpi/.venv/lib/python3.11/site-packages/lerobot/common/datasets/lerobot_dataset.py", line 1004, in create
+    obj.meta = LeRobotDatasetMetadata.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/adminroot/lxx/openpi/code/openpi/.venv/lib/python3.11/site-packages/lerobot/common/datasets/lerobot_dataset.py", line 318, in create
+    obj.root.mkdir(parents=True, exist_ok=False)
+  File "/home/adminroot/.local/share/uv/python/cpython-3.11.13-linux-x86_64-gnu/lib/python3.11/pathlib.py", line 1116, in mkdir
+    os.mkdir(self, mode)
+FileExistsError: [Errno 17] File exists: '/home/adminroot/lxx/dataset/uav_flow_lerobot_format/fixed_command/pass/train_without_first_10/uav_flow'
+
+
+Python version: 3.11.13 (main, Jun  4 2025, 17:37:17) [Clang 20.1.4 ]
+Memory usage at crash: RSS=668.49MB

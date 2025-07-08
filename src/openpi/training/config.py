@@ -365,7 +365,7 @@ class TrainConfig:
     # How often (in steps) to log training metrics.
     log_interval: int = 100
     # How often (in steps) to save checkpoints.
-    save_interval: int = 1000
+    save_interval: int = 50
     # If set, any existing checkpoints matching step % keep_period == 0 will not be deleted.
     keep_period: int | None = 5000
 
@@ -410,6 +410,66 @@ class TrainConfig:
 
 # Use `get_config` if you need to get a config by name in your code.
 _CONFIGS = [
+    TrainConfig(
+        name="pi0_uav_low_mem_finetune",
+        model=pi0.Pi0Config(
+            paligemma_variant="gemma_2b_lora", 
+            action_expert_variant="gemma_300m_lora",
+            action_horizon=10,  # Horizon Steps from image
+            # lora_rank=32  # LoRA Rank from image
+        ),
+        data=LeRobotLiberoDataConfig(
+            repo_id="uav_flow",  # Update with your dataset repo ID
+            base_config=DataConfig(prompt_from_task=True),
+        ),
+        weight_loader=weight_loaders.CheckpointWeightLoader("s3://openpi-assets/checkpoints/pi0_base/params"),
+        lr_schedule=_optimizer.CosineDecaySchedule(peak_lr=5e-5),  # Learning Rate from image
+        batch_size=16,  # Batch Size from image
+        num_train_steps=100_000,  
+        # Adjust based on your dataset size for 12 epochs
+        # 单个episode内部可形成的样本：每个episode (假设长度为50) 可形成 (50-10+1)=41个样本
+        # 总样本数量：约1,350,000-27000×9 ≈ 1,107,000个样本 (每个episode损失9个点，因为首尾不完整的序列)
+        # num_train_steps = (epochs * 有效样本数) / batch_size
+        #          ≈ (12 * 1,107,000) / 16
+        #          ≈ 830,250步
+        # num_train_steps = (epochs * num_dataset_samples) / batch_size
+        freeze_filter=pi0.Pi0Config(
+            paligemma_variant="gemma_2b_lora", 
+            action_expert_variant="gemma_300m_lora",
+            action_horizon=10, # Match model config
+            # lora_rank=32 # Match model config
+        ).get_freeze_filter(),
+        ema_decay=None,
+        # fsdp_devices=8, # Assuming FSDP across 8 GPUs
+        # Consider setting exp_name, e.g., exp_name="pi0_uav_low_mem_finetune_run1"
+    ),
+    # changed batch_size, peak learning rate, num_train_steps
+    TrainConfig(
+        name="pi0_uav_low_mem_finetune_0702",
+        model=pi0.Pi0Config(
+            paligemma_variant="gemma_2b_lora", 
+            action_expert_variant="gemma_300m_lora",
+            action_horizon=10,  # Horizon Steps from image
+            # lora_rank=32  # LoRA Rank from image
+        ),
+        data=LeRobotLiberoDataConfig(
+            repo_id="uav_flow",  # Update with your dataset repo ID
+            base_config=DataConfig(prompt_from_task=True),
+        ),
+        weight_loader=weight_loaders.CheckpointWeightLoader("s3://openpi-assets/checkpoints/pi0_base/params"),
+        lr_schedule=_optimizer.CosineDecaySchedule(peak_lr=1e-4),  # Learning Rate from image
+        batch_size=32,  # Batch Size from image
+        num_train_steps=100_000,  
+        freeze_filter=pi0.Pi0Config(
+            paligemma_variant="gemma_2b_lora", 
+            action_expert_variant="gemma_300m_lora",
+            action_horizon=10, # Match model config
+            # lora_rank=32 # Match model config
+        ).get_freeze_filter(),
+        ema_decay=None,
+        # fsdp_devices=8, # Assuming FSDP across 8 GPUs
+        # Consider setting exp_name, e.g., exp_name="pi0_uav_low_mem_finetune_run1"
+    ),
     #
     # Inference Aloha configs.
     #

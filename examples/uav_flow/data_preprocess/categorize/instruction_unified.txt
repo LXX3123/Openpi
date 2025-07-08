@@ -1,0 +1,757 @@
+Advance past the iron box from the left side
+Advance past the large pole from the left side
+Advance past the speed limit sign from the left side
+Advance through the first tree from the left side, then approach the second tree from the left side
+Advance through the first tree from the right side, then advance through the second tree from the right side
+Advance through the middle streetlight from the right side
+Advance through the middle tree from the left side, then move past the front tree from the right side
+Advance through the middle tree from the right side, then advance through the middle tree from the left side
+Advance through the monitoring from the left side
+Advance through the tree from the left side, then approach the left side of the tree
+Advance to the display pillar from the right side
+Advance to the fire hydrant from the front side
+Advance to the iron box from the front side
+Advance to the landmark from the right side
+Advance to the roadside pole ahead
+Advance to the small streetlight from the front side
+Advance to the tree from the front side
+Advance to the tree from the right side
+Advance toward the bicycle from the front side
+Advance toward the black cloth from the left side
+Advance toward the flagpole ahead
+Advance toward the front wire mesh gate from the front side
+Advance toward the left-front tree from the left side
+Advance toward the small lamp post in the middle ahead
+Advance toward the streetlight from the left side
+Advance toward the tree from the right side
+Approach the bicycle from the front side
+Approach the fire hydrant from the right side
+Approach the lifebuoy from the front side
+Approach the middle streetlight from the left side
+Approach the sculpture in front
+Approach the streetlight ahead from the front side
+Approach the streetlight flag from the front side
+Approach the streetlight flag from the side
+Approach the streetlight from the right side
+Approach the tree from the left side
+Approach the tree from the right side
+Avoid the tree from the right side
+Back away from the bicycle ahead
+Back away from the camera
+Back away from the fire hydrant
+Back away from the statue ahead
+Back away from the white pillar on the front side
+Back off from the camera on the front side
+Back off from the iron box
+Back off from the lamp post ahead
+Back off from the metal box ahead
+Back off from the tree ahead
+Back out from the road sign
+Back up from the bicycle on the front side
+Circle about the display pillar in counterclockwise direction
+Circle around the gas marker
+Cross past the flagpole from the left side
+Cross past the iron box from the left side
+Cross past the middle streetlight from the right side, then cross past the front tree from the right side
+Cross past the school motto from the left side
+Cross past the statue from the left side
+Cross past the statue from the right side
+Cross past the streetlight flag from the left side
+Cross past the surveillance from the right side
+Cross past the transformer box from the right side
+Cross past the tree from the left side, then cross past the streetlights from the left side
+Cross through the sign from the right side
+Cross through the soccer goal from the right side
+Cross through the streetlight from the left side, then approach the tree from the left side
+Cross through the surveillance from the left side
+Dive down from the current position
+First pass the first tree from the left side, then proceed through the first and second tree from the left side, finally approach the third tree from the right side
+First pass through the first tree from the right side, then navigate through the second tree from the left side, next travel through the third tree from the left side, and finally move past the third tree from the right side
+First pass through the first tree from the right side, then pass through the second tree from the right side, and finally cross past the third tree from the left side
+Fly around the bicycle in clockwise direction
+Fly around the iron box in counterclockwise direction
+Fly around the road sign in xx direction
+Fly around the streetlight in clockwise direction
+Get closer to the front camera pole
+Get closer to the monitoring on the left side
+Get closer to the pole
+Get closer to the small lamp post on the left side
+Go about the signboard in counterclockwise direction
+Go about the statue in counterclockwise direction
+Go back from the sculpture on the front side
+Go back from the sign ahead
+Go past the bicycle from the left side
+Go past the bicycle from the right side
+Go past the building from the left side
+Go past the first tree from the left side, then approach the second tree from the right side
+Go past the first tree from the right side, then approach the second tree from the left side
+Go past the first tree from the right side, then approach the second tree from the right side
+Go past the first tree from the right side, then navigate through the second and third tree and the streetlight from the left side
+Go past the lamp post from the right side
+Go past the middle tree from the left side, then go past the left tree from the right side
+Go past the pillar from the left side
+Go past the sign from the right side
+Go past the signboard from the right side, then go past the tree from the right side
+Go past the streetlight from the left side
+Go past the trash can from the left side
+Go past the trash can from the right side
+Go past the tree from the left side
+Go past the tree from the right side
+Go through the first tree from the right side, then through the second tree from the left side, and finally through the third tree from the right side
+Go through the pillar from the right side
+Go through the road sign from the left side
+Go through the tree from the right side
+Go to the camera on the front side
+Go to the display pillar on the left side
+Go to the front of the streetlight
+Go to the front of the tree
+Go to the gas marker on the left side
+Go to the iron box on the right side
+Go to the lamp post on the left side
+Go to the lamp post on the right side
+Go to the landmark on the left side
+Go to the signboard on the right side
+Go to the streetlight on the left side
+Go to the streetlight on the right side
+Go to the tree on the left side
+Go to the tree on the right side
+Go to the windmill on the left side
+Go toward the building from the right side
+Go toward the front of the display pillar from the front side
+Go toward the gas sign from the front side
+Go toward the landmark from the left side
+Go toward the middle streetlight from the right side
+Go toward the road sign from the left side
+Go toward the umbrella from the left side
+Head to the big tree from the front side
+Head to the building on the right side
+Head to the building on the side
+Head to the gas marker on the right side
+Head to the lamp post on the front side
+Head to the monitor on the left side
+Head to the monitor on the right side
+Head to the pillar on the left side
+Head to the sign on the left side
+Head to the streetlight on the left side
+Head to the trash can on the right side
+Head to the tree ahead on the right side
+Head to the tree on the front side
+Head to the tree on the left side
+Head toward the corner of the stands on the right side
+Head toward the landmark on the right side
+Head toward the left side of the tree on the left side
+Head toward the road sign on the side
+Head toward the small streetlight on the right side
+Head toward the soccer goal on the right side
+Head toward the windmill on the right side
+Hover above the front side of the rock
+Hover above the lifebuoy
+Hover above the signboard
+Hover above the tree ahead
+Hover at the front position of the tree
+Hover at the left side of the camera
+Hover at the top location of the front tree
+Hover at the top location of the road sign ahead
+Hover at the top position of the display
+Hover beside the streetlight on the right side
+Hover on the left side of the tree
+Hover on the right side of the camera
+Land at the building on the right side
+Land at the front side of the lamp pole
+Land at the lamp post on the right side
+Land at the monitoring position
+Land at the sculpture
+Land at the sign on the front side
+Land at the streetlight position
+Land at the tree location
+Land on the front side of the streetlight
+Land on the front side of the tree
+Land on the left side of the bicycle
+Land on the left side of the big tree
+Land on the left side of the building
+Land on the left side of the lamp pole
+Land on the left side of the parachute
+Land on the left side of the sign
+Land on the left side of the streetlight
+Land on the right side of the bicycle
+Land on the right side of the lamp post
+Land on the right side of the trash can
+Land on the right side of the tree
+Land on the right side of the tree on the road
+Land to the front side of the camera
+Land to the front side of the sculpture
+Land to the front side of the tree
+Land to the left side of the camera
+Land to the left side of the fire hydrant
+Land to the left side of the gas marker on the road
+Land to the left side of the street light
+Land to the left side of the tree
+Land to the right side of the camera
+Land to the right side of the gas marker
+Land to the right side of the tree
+Land toward the front side of the building
+Land toward the front side of the lamp pole
+Land toward the front side of the light
+Land toward the front side of the tree
+Land toward the left side of the tree
+Land toward the right side of the bicycle
+Land toward the right side of the sign
+Make for the goal from the left side
+Make for the iron box from the left side
+Make for the middle tree from the left side
+Make for the second tree from the right side after bypassing the first tree from the left
+Make for the small lamp post from the right side
+Make way past the first tree from the right side, and proceed past the second tree from the above side, advance past the third tree from the above side
+Make way past the fitness equipment from the middle side
+Make way past the sculpture from the right side
+Make way past the tree from the left side
+Make way through the middle tree from the right side
+Make way through the road sign from the left side
+Make way through the road sign from the right side, then proceed past the middle tree from the right side
+Make way through the roadside pole from the right side
+Make way through the signboard from the left side
+Make way through the tree ahead from the right side, then pass over the obstacle from above
+Make way through the tree from the right side
+Make way to the front of the basketball hoop from the front side
+Make way to the light from the left side
+Make way to the streetlight from the front side
+Make way to the streetlight from the left side
+Make way to the tree from the left side of the right
+Move about the bicycle in counterclockwise direction
+Move about the lifebuoy in counterclockwise direction
+Move about the target in counterclockwise direction
+Move about the tree in counterclockwise direction
+Move away from the building
+Move away from the door on the front side
+Move away from the goal on the front side
+Move away from the life buoy ahead
+Move away from the tree on the front side
+Move away from the tree on the side
+Move back from the display pillar ahead
+Move backward from the camera pole on the front side
+Move closer to the fire hydrant on the front side
+Move closer to the first tree on the left side, then move closer to the second tree on the left side
+Move closer to the goal on the right side
+Move closer to the large tree ahead
+Move closer to the monitoring area ahead
+Move closer to the road sign in the front middle
+Move closer to the sign on the front side
+Move closer to the signboard on the left side
+Move closer to the tree on the right side from the front left
+Move in the direction of the right side of the sign
+Move in the left direction of the tree
+Move in the right direction of the streetlight flag
+Move off from the parachute
+Move off from the streetlight ahead
+Move past the first tree from the left side, then move past the second tree from the left side
+Move past the first tree from the right side, then travel through the second tree from the left side, and finally cross past the third tree from the right side
+Move past the middle streetlight from the left side, then proceed past the left tree from the right side
+Move past the road sign from the right side
+Move past the sculpture from the left side
+Move past the substation from the left side
+Move through the first tree from the right side, then through the second tree from the right side, and finally through the third tree from the left side
+Move through the iron box from the right side
+Move through the left tree from the right side, then move through the right tree from the left side
+Move through the sign from the left side
+Move through the tree from the right side
+Move to the bicycle on the left side
+Move to the bicycle on the right side
+Move to the display on the right side
+Move to the front goal on the front side
+Move to the large pole on the front side
+Move to the left side of the school motto
+Move to the light on the right side
+Move to the pillar on the right side
+Move to the right
+Move to the right side of the fire hydrant
+Move to the right side of the tree
+Move to the sign on the right side
+Move to the substation box on the left side
+Move to the trash can on the front side
+Move to the tree on the left side
+Move toward the left side of the streetlight
+Move toward the road sign on the front side
+Move toward the statue on the left side
+Move toward the tree on the side
+Navigate around the bicycle in counterclockwise direction
+Navigate past the camera pole from the left side
+Navigate past the first streetlight from the right side, then proceed past the second tree from the right side, and finally advance past the third tree from the left side
+Navigate past the first tree from the left side, then pass through the second tree from the right side, and finally go past the third tree from the right side
+Navigate past the first tree from the right side, then advance past the second tree from the left side
+Navigate past the first tree from the right side, then approach the second tree
+Navigate past the left side from the right, then proceed through the tree ahead from the right side
+Navigate past the left streetlight from the left side
+Navigate past the lifebuoy from the right side
+Navigate past the tree from the left side
+Navigate through the building from the right side
+Navigate through the middle streetlight from the right side, then go past the right tree from the left side
+Navigate through the middle tree from the left side, then approach the right side of the front tree
+Navigate through the middle tree from the right side, then pass by the right tree from the left side
+Navigate through the streetlight from the left side
+Navigate through the tree from the right side, then proceed past the sign from the left side
+Navigate to the building from the left side
+Navigate to the fire hydrant from the left side
+Navigate to the front center tree from the left side
+Navigate to the left side of the streetlight from the left side
+Navigate to the road pole from the right side
+Navigate to the tree from the right side
+Navigate toward the front tree from the left side
+Navigate toward the signboard from the front side
+Navigate toward the soccer goal from the left side
+Navigate toward the tree from the left side
+Navigate toward the windmill house in front
+Need to advance through the small street lamp from the right side
+Need to advance through the tree from the right side, then advance through the tree from the right side again
+Need to advance to the camera from the left side
+Need to back off from the road sign ahead
+Need to back off from the small streetlight ahead
+Need to back off from the tree
+Need to get closer to the speed limit sign on the front side
+Need to get closer to the streetlight on the right side
+Need to get closer to the tree on the side
+Need to get closer to the warning sign on the side
+Need to head toward the big tree from the front side
+Need to head toward the front of the streetlight
+Need to head toward the middle tree in front
+Need to head toward the school motto on the left side
+Need to head toward the sculpture on the left side
+Need to head toward the statue on the right side
+Need to head toward the tree on the right side
+Need to head toward the tree on the right side, then head toward another tree on the right side
+Need to head toward the warning sign on the front side
+Need to land toward the left side of the statue
+Need to land toward the left side of the tree
+Need to land toward the right side of the fire hydrant
+Need to land toward the right side of the warning sign
+Need to make for the iron mesh gate from the right side
+Need to make for the tree from the front side
+Need to make way past the camera pole from the right side
+Need to make way past the first tree from the left side, and the second tree from the right side
+Need to make way past the stone from the right side
+Need to make way past the tree ahead from the left side, then proceed over the obstacle from above
+Need to make way past the tree from the right side
+Need to make way past the white pillar from the right side
+Need to navigate past the first tree from the right side, then approach the second tree from the right side
+Need to navigate past the speed limit sign from the right side
+Need to navigate past the tree from the right side, then navigate past the streetlights from the right side
+Need to retreat from the roadside pole ahead
+Need to revolve about the iron box in counterclockwise direction
+Need to revolve about the roadside pole in counterclockwise direction
+Need to spin to face the front of the tree
+Need to spin to face the tree counterclockwise
+Need to step away from the streetlight flag ahead
+Need to travel through the first tree from the left side, then pass through the street light from the left side
+Need to travel through the fitness equipment from the top side
+Need to travel through the roadside pole from the left side
+Need to travel through the signboard from the left side
+Need to withdraw from the building on the front side
+Need to withdraw from the iron box ahead
+Need to withdraw from the streetlight flag on the front side
+Orbit about the camera in counterclockwise direction
+Orbit about the fire hydrant in counterclockwise direction
+Orbit about the signboard
+Orbit about the streetlight
+Orbit about the warning sign in counterclockwise direction
+Orbit the goal in counterclockwise direction
+Orbit the lamp post
+Orbit the light in clockwise direction
+Orbit the light in counterclockwise direction
+Orbit the sign in counterclockwise direction
+Orbit the statue in clockwise direction
+Orbit the streetlight in counterclockwise direction
+Orbit the trash can in counterclockwise direction
+Orbit the tree
+Orbit the tree in clockwise direction
+Orbit the tree in counterclockwise direction
+Pass around the tree from the right side
+Pass by the camera from the left side
+Pass by the fire hydrant from the right side
+Pass by the first tree from the left side, then cross past the second tree from the right side, and finally go past the third tree from the right side
+Pass by the first tree from the right side, then pass by the second and third tree from the left side
+Pass by the first tree from the right side, then pass by the streetlight from the right side
+Pass by the gas sign from the left side
+Pass by the gas sign from the right side
+Pass by the lamp post from the left side
+Pass by the middle tree from the left side, then pass by the middle tree from the right side
+Pass by the right tree from the left side, then pass by the middle tree from the left side
+Pass by the soccer goal from the left side
+Pass by the streetlight from the right side
+Pass by the surveillance from the right side
+Pass by the tree from the left side
+Pass by the tree from the right side
+Pass by the tree from the right side, then approach the right side of the tree
+Pass the first tree from the right side, then proceed past the second tree from the left side, and finally travel past the third tree from the right side
+Pass through the display pole from the right side
+Pass through the fire hydrant from the left side
+Pass through the first tree from the left side, then go past the second tree from the right side, and finally advance past the third tree from the left side
+Pass through the first tree from the left side, then pass through the second and third tree from the left side
+Pass through the first tree from the left side, then pass through the second tree from the right side, and finally pass through the third tree from the left side
+Pass through the first tree from the right side, then pass through the second tree from the left side
+Pass through the first tree from the right side, then pass through the second tree from the left side, and finally pass through the third tree from the left side
+Pass through the first tree from the right side, then pass through the second tree from the right side, and finally pass through the third tree from the left side
+Pass through the middle tree from the right side, then navigate past the front streetlight from the left side
+Pass through the signboard from the left side, then pass through the first tree from the right side
+Pass through the tree from the left side and stop before the second tree
+Pass through the tree from the right side, then take off and pass through the roof
+Please advance toward the bicycle from the right side
+Please advance toward the front for surveillance
+Please advance toward the front of the building corner
+Please advance toward the middle tree ahead from the right side
+Please advance toward the poster in front
+Please approach the building from the left side
+Please approach the front of the middle tree ahead from the front side
+Please approach the substation box from the front side
+Please approach the tree from the near side
+Please circle the tree in clockwise direction
+Please circle the windmill in counterclockwise direction
+Please cross past the camera from the left side
+Please cross past the cone from the left side
+Please cross past the first tree from the right side, then cross past the second tree from the left side
+Please cross past the middle tree from the left side, then cross past the front tree from the left side
+Please cross past the middle tree from the right side, then cross past the right tree from the left side
+Please cross past the school motto from the top side
+Please cross past the signboard from the right side
+Please cross past the tree from the left side and approach the person's front
+Please cross past the umbrella from the right side
+Please go back from the basketball hoop on the front side
+Please go back from the road sign ahead
+Please go past the first tree from the right side, then approach the signboard from the right side
+Please go past the first tree from the right side, then pass by the first streetlight from the left side
+Please go past the side room from the left side
+Please go past the tree from the right side
+Please go to the middle tree ahead on the right side
+Please go to the sculpture on the front side
+Please go to the substation box on the right side
+Please go to the tree on the left side
+Please hover at the front side of the blue box
+Please hover at the left side of the streetlight
+Please hover at the top side of the tree
+Please land at the column on the right side
+Please land at the lamp post on the right side
+Please land at the tree on the left side
+Please land at the tree on the right side
+Please make way through the bicycle from the right side
+Please make way through the first tree from the right side, and pass by the second tree from the above side
+Please make way through the first tree from the right side, then proceed past the second tree from the top side
+Please make way through the left tree from the left side
+Please make way through the middle tree from the right side, then through the left tree from the left side
+Please make way through the right-side tree from the left side, then through the middle tree from the right side
+Please make way through the tree from the right side
+Please make way to the big tree from the front side
+Please make way to the iron box from the left side
+Please make way to the speed limit sign from the right side
+Please make way to the stone from the left side
+Please move in the direction of the right side of the warning sign
+Please move off from the light
+Please move to the right side of the camera
+Please navigate through the first tree from the left side, then through the second tree from the right side
+Please navigate through the first tree from the right side, then through the second tree from the left side, and finally through the third tree from the left side
+Please navigate through the left tree from the right side, then navigate through the middle tree from the right side
+Please navigate through the middle streetlight from the right side, then proceed past the middle tree from the right side
+Please navigate through the tree ahead from the left side
+Please navigate through the tree from the left side, then navigate through the tree from the left side again
+Please navigate through the tree from the right side, then through the streetlights from the left side
+Please pass through the first tree from the left side, then pass through the second tree from the right side
+Please pass through the left tree from the right side, then pass through the middle tree from the left side
+Please pass through the tree and streetlights from the right side
+Please pass through the tree from the right side, then pass through the tree from the left side
+Please proceed toward the cone on the right side
+Please proceed toward the first tree on the right side, then get closer to the second tree
+Please proceed toward the front middle streetlight
+Please proceed toward the front of the tree
+Please proceed toward the signboard on the left side
+Please proceed toward the tree on the right side
+Please progress toward the camera on the front side
+Please progress toward the camera on the left side
+Please progress toward the cone from the front side
+Please progress toward the front door on the front side
+Please progress toward the front of the road sign
+Please progress toward the front of the sign
+Please progress toward the monitoring area on the right side
+Please progress toward the right side of the left streetlight
+Please progress toward the stone on the right side
+Please progress toward the tree on the left side
+Please pull back from the signboard ahead
+Please pull back from the trash bin ahead
+Please retreat from the display screen ahead
+Please retreat from the signboard ahead
+Please rotate in clockwise direction
+Please shift in left direction and ascend
+Please shift toward the left side of the warning sign
+Please shift toward the right side of the iron box
+Please shift toward the right side of the tree
+Please translate toward the left then to the right side of the tree
+Please translate toward the right
+Please travel about the big tree in counterclockwise direction
+Please travel about the signboard in counterclockwise direction
+Please travel about the small lamp post in counterclockwise direction
+Please turn clockwise for a full circle
+Please turn to the clockwise
+Please turn to the counterclockwise side
+Please withdraw from the road pole ahead
+Please withdraw from the school motto on the front side
+Please withdraw from the small lamp post ahead
+Please withdraw from the windmill house ahead
+Proceed past the first tree from the left side, then navigate through the second tree from the left side, and approach the third tree from the right side
+Proceed past the first tree from the left side, then through the second and third tree from the right side
+Proceed past the left tree from the right side, then approach the front tree from the left side
+Proceed past the middle streetlight from the left side
+Proceed past the middle tree from the left side, then go through the right tree from the right side
+Proceed past the middle tree from the right side, then pass the front tree from the left side
+Proceed past the small streetlight from the left side
+Proceed past the streetlight from the right side
+Proceed past the tree from the left side, then approach the left side of the road sign
+Proceed past the warning sign from the left side
+Proceed through the bicycle from the left side
+Proceed through the cone from the right side
+Proceed through the first tree from the left side, then cross past the second tree from the right side, and finally advance through the third tree from the right side
+Proceed through the first tree from the left side, then pass the second tree from the left side, and finally go past the third tree from the right side
+Proceed through the first tree from the left side, then through the second tree from the right side, and finally through the third tree from the left side
+Proceed through the first tree from the right side, then pass by the second tree from the left side, and finally move through the third tree from the right side
+Proceed through the first tree from the right side, then through the second tree from the left side
+Proceed through the middle streetlight from the right side, then pass by the front tree from the left side
+Proceed through the pillar from the middle side
+Proceed through the road sign from the right side
+Proceed through the signboard from the left side
+Proceed through the streetlight from the left side, then go past the tree from the right side
+Proceed through the tree from the left side, then pass through the road sign from the right side
+Proceed to the black cloth on the right side
+Proceed to the building on the front side
+Proceed to the camera on the right side
+Proceed to the second tree on the left side after bypassing the first tree from the right
+Proceed to the second tree on the left side after bypassing the first tree on the right
+Proceed to the small streetlight on the side
+Proceed to the speed limit sign on the left side
+Proceed to the tree on the left side
+Proceed toward the building on the front side
+Proceed toward the front of the bicycle
+Proceed toward the iron box from the front side
+Proceed toward the road sign on the right side
+Proceed toward the roadside pole on the left side
+Proceed toward the streetlight ahead
+Proceed toward the tree ahead
+Proceed toward the tree ahead on the front side
+Proceed toward the umbrella on the side
+Proceed toward the warning sign from the front side
+Proceed toward the wing room on the right side
+Progress past the iron box from the right side
+Progress past the sculpture from the left side
+Progress past the small lamp post from the left side
+Progress through the display from the right side
+Progress through the fire hydrant from the left side
+Progress through the first tree from the right side, then pass the second tree from the right side, and finally cross past the third tree from the left side
+Progress through the goal from the left side
+Progress through the side room from the right side
+Progress through the stone from the left side
+Progress to the fire hydrant on the right side
+Progress to the middle tree in front
+Progress to the school motto front side
+Progress to the stone in the front center
+Progress to the streetlight flag on the left side
+Progress to the trash bin on the left side
+Progress to the tree on the right side
+Progress toward the iron box on the right side
+Progress toward the second tree from the right side
+Progress toward the signboard on the right side
+Progress toward the tree on the front side
+Progress toward the tree on the left side
+Request to advance past the fire hydrant from the right side
+Request to advance past the middle tree from the right side, then advance past the left tree from the right side
+Request to advance past the streetlight from the right side
+Request to advance past the tree from the left side
+Request to advance past the tree from the left side, then approach the right side of the tree ahead
+Request to back away from the cone ahead
+Request to back away from the sign on the front side
+Request to back up from the fire hydrant on the front side
+Request to head to the cone on the left side
+Request to head to the fire hydrant on the front side
+Request to head to the iron box on the side
+Request to head to the warning sign from the front side
+Request to hover at the top point of the front tree
+Request to land to the landmark position
+Request to land to the left side of the tree on the road
+Request to land to the right side of the iron box
+Request to land to the right side of the streetlight
+Request to land to the right side of the streetlight flag
+Request to move about the building in circular direction
+Request to move around the fire hydrant in circular direction
+Request to move forward
+Request to move through the camera from the right side
+Request to move through the light from the left side
+Request to move through the right side tree from the right side
+Request to move through the signboard from the right side
+Request to move through the tree from the left side
+Request to move through the tree from the left side, then proceed through the streetlights from the right side
+Request to move to the left side of the light
+Request to move to the sculpture on the right side
+Request to move to the streetlight flag on the right side
+Request to move to the warning sign on the right side
+Request to move toward the signboard on the front side
+Request to move toward the streetlight from the front side
+Request to move toward the tree on the left side
+Request to move toward the tree on the right side
+Request to move toward the tree on the right side in front
+Request to move toward the warning sign on the left side
+Request to navigate to the road pole from the left side
+Request to navigate to the tree from the front side
+Request to rotate around the cone in counterclockwise direction
+Request to rotate around the sculpture in counterclockwise direction
+Request to rotate around the tree in xx direction
+Request to rotate clockwise once behind the tree
+Request to rotate toward the clockwise
+Request to shift to face the left
+Request to shift toward the right side of the tree
+Request to shift toward the upper right
+Request to spin counterclockwise around the left rear side of the tree once
+Request to spin in counterclockwise direction
+Request to spin in the direction of the counterclockwise sculpture
+Request to translate in the left side of the fire hydrant direction
+Request to translate toward the left side of the sign
+Request to translate toward the right side of the small streetlight
+Request to translate toward the right side of the streetlight
+Request to translate toward the right side of the tree
+Request to translate toward the upper right side
+Request to travel past the first tree from the left side, then past the second tree from the right side, then past the third tree from the right side
+Request to travel past the first tree from the right side, then past the second tree from the right side, and finally past the third tree from the left side
+Request to travel past the middle tree from the left side
+Request to travel past the right streetlight from the right side
+Request to travel past the small lamp post from the right side
+Request to travel past the streetlight from the left side
+Request to travel past the tree from the right side and approach the person ahead
+Request to travel past the tree from the right side, then approach the streetlight from the left side
+Request to turn to face the back of the tree and rotate counterclockwise for 4 circles
+Request to withdraw from the warning sign
+Retreat from the gas sign ahead
+Retreat from the signboard
+Retreat from the small streetlight
+Retreat from the stone on the front side
+Retreat from the street light on the front side
+Retreat from the streetlight ahead
+Retreat from the streetlight on the front side
+Retreat from the tree
+Retreat from the tree ahead
+Revolve about the fire hydrant in counterclockwise direction
+Revolve about the streetlight in xx direction
+Revolve about the tree in clockwise direction
+Revolve about the tree in counterclockwise direction
+Revolve around the white pillar in clockwise direction
+Rotate around the camera in clockwise direction
+Rotate around the road sign in counterclockwise direction
+Rotate counterclockwise around the left side of the tree
+Rotate counterclockwise once behind the tree
+Rotate in counterclockwise direction for one full circle
+Rotate in the direction of the clockwise
+Rotate to face the front of the building
+Rotate to the clockwise side of the tree
+Rotate toward the clockwise side
+Rotate toward the counterclockwise side
+Rotate toward the counterclockwise side of the tree
+Shift in the direction of the building's right side
+Shift in the direction of the left side of the speed limit sign
+Shift to the left side of the cone
+Shift to the upper side
+Shift toward the left side of the bicycle
+Shift toward the left side of the building
+Shift toward the left side of the small streetlight
+Shift toward the right side
+Shift toward the right side of the speed limit sign
+Shift upward
+Spin counterclockwise once behind the signboard
+Spin in clockwise direction
+Spin in counterclockwise direction
+Spin to the left side
+Spin to the right
+Spin toward the clockwise direction
+Step away from the tree on the front side
+Suggest circling about the streetlight in counterclockwise direction
+Suggest crossing through the right tree from the left side, then crossing through the middle tree from the left side
+Suggest going through the fitness equipment from the right side
+Suggest going through the signboard and tree from the right side
+Suggest going toward the display screen from the front side
+Suggest going toward the signboard from the upper side
+Suggest hovering on the right side of the tree
+Suggest hovering on the top side of the streetlight
+Suggest landing on the right side of the big tree
+Suggest landing on the right side of the sign
+Suggest moving away from the streetlight on the xx side
+Suggest moving away from the surveillance ahead
+Suggest moving away from the tree on the front side
+Suggest moving closer to the camera on the right side
+Suggest moving closer to the fire hydrant
+Suggest moving closer to the roadside pole on the right side
+Suggest moving closer to the signboard on the right side
+Suggest moving closer to the tree on the right side
+Suggest moving closer to the white pillar on the front side
+Suggest moving past the first tree from the left side, then approach the second tree from the right side
+Suggest moving past the first tree from the right side, and the second tree from the top side
+Suggest moving past the tree and streetlights from the left side
+Suggest navigating about the pole in counterclockwise direction
+Suggest navigating about the streetlight flag in counterclockwise direction
+Suggest navigating about the umbrella in counterclockwise direction
+Suggest navigating around the small streetlight in counterclockwise direction
+Suggest navigating around the tree in circular direction
+Suggest navigating toward the basketball hoop from the front side
+Suggest navigating toward the front 'tree from the right side
+Suggest navigating toward the tree ahead on the right from the left side
+Suggest navigating toward the tree from above
+Suggest navigating toward the tree from the right side
+Suggest proceeding past the goal from the right side
+Suggest proceeding past the lifebuoy from the left side
+Suggest proceeding past the light from the right side
+Suggest proceeding past the school motto from the right side
+Suggest proceeding past the sculpture from the right side
+Suggest proceeding past the umbrella from the left side
+Suggest proceeding to the black cloth ahead
+Suggest proceeding to the tree on the right side
+Suggest progressing through the road pole from the right side
+Suggest progressing through the road sign from the left side
+Suggest progressing through the tree from the left side
+Suggest progressing through the warning sign from the right side
+Suggest progressing to the light on the side
+Suggest progressing to the middle tree on the right side
+Suggest progressing to the road pole in the front middle
+Suggest progressing to the tree on the left side
+Suggest progressing to the wing room on the left side
+Suggest retreating from the pillar ahead
+Suggest retreating from the speed limit sign on the front side
+Suggest retreating from the warning sign ahead
+Suggest revolving around the pillar
+Suggest revolving around the substation in a counterclockwise direction
+Suggest stepping back from the sign ahead
+Suggest traveling to the lamp post from the right side and land
+Suggest turning in the direction of the clockwise behind the tree for one circle
+Surround the building in clockwise direction
+Take off and go away from the tree ahead
+Translate in the direction of the bicycle's right side
+Translate in the lower-left direction
+Translate to the left
+Translate to the left side of the tree
+Translate to the right side of the cone
+Translate to the right side of the school motto
+Translate toward the left side of the big tree
+Translate toward the left side of the iron box
+Translate toward the left side of the streetlight flag
+Translate toward the left side of the tree
+Translate toward the right side of the building
+Translate toward the right side of the light
+Translate toward the right side of the tree
+Translate toward the upper left
+Travel around the school motto in clockwise direction
+Travel around the stone in counterclockwise direction
+Travel past the camera from the right side
+Travel past the display pillar from the left side
+Travel past the first tree from the left side, then past the second tree from the right side, and finally past the third tree from the right side
+Travel past the first tree from the left side, then travel past the second tree from the left side, and finally travel past the third tree from the left side
+Travel past the road pole from the left side
+Travel past the tree from the left side, then travel past the tree from the right side
+Travel through the first tree from the left side
+Travel through the streetlight flag from the right side
+Travel to the fire hydrant from the left side
+Travel to the small streetlight from the left side
+Turn around the big tree in clockwise direction
+Turn around the building in counterclockwise direction
+Turn to face the camera
+Turn to the front of the light
+Withdraw from the corner of the building ahead
+Withdraw from the fire hydrant on the front side
+Withdraw from the streetlight flag

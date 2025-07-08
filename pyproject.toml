@@ -25,6 +25,7 @@ dependencies = [
     "openpi-client",
     "orbax-checkpoint==0.11.13",
     "pillow>=11.0.0",
+    "protobuf==4.25.3", # Add this line
     "s3fs>=2024.9.0",
     "sentencepiece>=0.2.0",
     "torch>=2.7.0",

@@ -1,0 +1,1162 @@
+[
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_10.png",
+        "state": [
+            0.782866895198822,
+            0.05594826489686966,
+            -0.007916554808616638,
+            -0.814030110836029,
+            -0.07227713614702225,
+            -0.5769850611686707
+        ],
+        "actions": [
+            0.9171061323643707,
+            0.0667557070056213,
+            -0.011857979472838714,
+            -1.1322989084281108,
+            -0.21930860785217432,
+            -1.0866828483972242
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_11.png",
+        "state": [
+            0.9173023104667664,
+            0.04547104984521866,
+            -0.008856385014951229,
+            -0.19564099609851837,
+            -0.2015693187713623,
+            -0.7062772512435913
+        ],
+        "actions": [
+            1.076140681395772,
+            0.09198890339277199,
+            -0.022918602313612882,
+            -1.2725810249186151,
+            -0.2980841994316683,
+            -1.0107308658064267
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_12.png",
+        "state": [
+            1.0670669078826904,
+            0.03711102157831192,
+            -0.00997257325798273,
+            0.39020633697509766,
+            -0.2827472686767578,
+            -0.9498111009597778
+        ],
+        "actions": [
+            1.2594751734963923,
+            0.09764758544943142,
+            -0.027715621824210994,
+            -1.2020170936677292,
+            -0.35049904571261853,
+            -0.534835454223144
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_13.png",
+        "state": [
+            1.2002766132354736,
+            0.035986222326755524,
+            -0.011097232811152935,
+            1.1215989589691162,
+            -0.3015693128108978,
+            -1.1062772274017334
+        ],
+        "actions": [
+            1.410679442465296,
+            0.1072556762455437,
+            -0.08154964639352366,
+            -0.5703646330566736,
+            -0.39570520529531694,
+            -0.14933174335330707
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_14.png",
+        "state": [
+            1.3343005180358887,
+            0.043712981045246124,
+            -0.01241383794695139,
+            1.0355695486068726,
+            -0.3574256896972656,
+            -1.7297027111053467
+        ],
+        "actions": [
+            1.588022733879632,
+            0.11371854720395003,
+            -0.09984618067237627,
+            -0.3587592843535841,
+            -0.40311848314204296,
+            -0.04273264071520266
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_15.png",
+        "state": [
+            1.4891427755355835,
+            0.0606895349919796,
+            -0.014103129506111145,
+            -0.7278708815574646,
+            -0.5015693306922913,
+            -2.367905855178833
+        ],
+        "actions": [
+            1.7727834951905348,
+            0.12170086667314166,
+            -0.1046516443346385,
+            -0.5693702622233427,
+            -0.38914083527081433,
+            0.000913309302135068
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_16.png",
+        "state": [
+            1.6458256244659424,
+            0.07130202651023865,
+            -0.01567532680928707,
+            -0.7226783633232117,
+            -0.6512424945831299,
+            -3.254643201828003
+        ],
+        "actions": [
+            1.963171884153678,
+            0.12369737833633744,
+            -0.10608455533871299,
+            -0.8513167313258739,
+            -0.4315130195966272,
+            0.1976175491262584
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_17.png",
+        "state": [
+            1.8136342763900757,
+            0.07556639611721039,
+            -0.017210790887475014,
+            -0.6968613862991333,
+            -0.8015693426132202,
+            -2.8738505840301514
+        ],
+        "actions": [
+            2.135034439743296,
+            0.1263707498092017,
+            -0.11027292870065368,
+            -0.9862315454624471,
+            -0.4972308962533042,
+            0.49400470072919767
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_18.png",
+        "state": [
+            2.0164034366607666,
+            0.08170709758996964,
+            -0.019086787477135658,
+            -0.7548664212226868,
+            -0.8595743775367737,
+            -1.854307770729065
+        ],
+        "actions": [
+            2.31572487894851,
+            0.13007745023820538,
+            -0.10335199375739679,
+            -1.5232721741914272,
+            -0.5572914276838236,
+            0.5513752248328947
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_19.png",
+        "state": [
+            2.201321601867676,
+            0.08192189037799835,
+            -0.020685119554400444,
+            0.3584681749343872,
+            -0.7821531295776367,
+            -1.4091962575912476
+        ],
+        "actions": [
+            2.4753280821791614,
+            0.1281894846234627,
+            -0.10506537811156516,
+            -1.7942023338850928,
+            -0.613613201319922,
+            0.44476016184700384
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_20.png",
+        "state": [
+            2.4202237129211426,
+            0.07771728187799454,
+            -0.022484032437205315,
+            0.6786492466926575,
+            -0.7015693187713623,
+            -0.6457334756851196
+        ],
+        "actions": [
+            2.7342058149363235,
+            0.09522958907860521,
+            -0.11298859830546996,
+            -0.581631154161937,
+            -0.7116974611419682,
+            0.5110084689349927
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_21.png",
+        "state": [
+            2.6370198726654053,
+            0.07542962580919266,
+            -0.024304842576384544,
+            -1.1672325134277344,
+            -0.5674950480461121,
+            0.3596484959125519
+        ],
+        "actions": [
+            2.9932808854927435,
+            0.05519077707164376,
+            -0.11975186707362517,
+            0.3139863205700173,
+            -0.6902015733774622,
+            0.558644144532583
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_22.png",
+        "state": [
+            2.8635737895965576,
+            0.06165313348174095,
+            -0.02596973069012165,
+            -0.6530399322509766,
+            -0.3717506229877472,
+            0.35863208770751953
+        ],
+        "actions": [
+            3.2693529165860995,
+            0.020880025047491535,
+            -0.12943451408489123,
+            0.9483509314204321,
+            -0.5531766516868941,
+            0.8961281678143145
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_23.png",
+        "state": [
+            3.0618460178375244,
+            0.05170862749218941,
+            -0.027470910921692848,
+            -1.1968613862991333,
+            -0.2015693187713623,
+            0.3197472393512726
+        ],
+        "actions": [
+            3.534645483200002,
+            -0.0022206665172644635,
+            -0.14150452071615977,
+            2.5554523645125684,
+            -0.2772401579401485,
+            1.6068863005314322
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_24.png",
+        "state": [
+            3.258577585220337,
+            0.033944953233003616,
+            -0.028795454651117325,
+            -1.4264187812805176,
+            -0.22452504932880402,
+            0.4248555302619934
+        ],
+        "actions": [
+            3.8051012660294736,
+            0.013454069465807614,
+            -0.14696999973417396,
+            7.136020849961402,
+            0.3103318033029173,
+            2.681418341404155
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_25.png",
+        "state": [
+            3.5442075729370117,
+            0.021938851103186607,
+            -0.03100651688873768,
+            -2.3403854370117188,
+            -0.4233313798904419,
+            -0.16275310516357422
+        ],
+        "actions": [
+            4.081892058378446,
+            0.06061062512711354,
+            -0.15589855953677673,
+            8.486992173030444,
+            1.0852937425275755,
+            3.383644252877809
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_26.png",
+        "state": [
+            3.704014539718628,
+            0.012005969882011414,
+            -0.03217640519142151,
+            -2.496861457824707,
+            -0.5603943467140198,
+            0.11137275397777557
+        ],
+        "actions": [
+            4.315599099452818,
+            0.15796214305240242,
+            -0.1641318743008287,
+            5.43325153990797,
+            1.5672232219660467,
+            2.424517210680397
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_27.png",
+        "state": [
+            3.9345667362213135,
+            -0.029957899823784828,
+            -0.03328685462474823,
+            -1.9506032466888428,
+            -0.8015693426132202,
+            0.48050612211227417
+        ],
+        "actions": [
+            4.527836481451448,
+            0.2889462290611623,
+            -0.17252120199518772,
+            2.125813643552134,
+            1.644457834954486,
+            0.9954213158546392
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_28.png",
+        "state": [
+            4.043357849121094,
+            -0.05342744663357735,
+            -0.033734213560819626,
+            -1.3080525398254395,
+            -0.8127604722976685,
+            0.2825315594673157
+        ],
+        "actions": [
+            4.7619812979980605,
+            0.43312833755646885,
+            -0.18049420113379439,
+            -1.3432764954952203,
+            1.4474011676140637,
+            -0.9244793042683361
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_29.png",
+        "state": [
+            4.309078216552734,
+            -0.12262523174285889,
+            -0.03457881137728691,
+            -1.7968614101409912,
+            -0.8015693426132202,
+            0.09737546741962433
+        ],
+        "actions": [
+            4.994017050511221,
+            0.5322009969361897,
+            -0.1942377659710841,
+            -0.6805159496783437,
+            0.9828832675744097,
+            -0.466535489598
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_30.png",
+        "state": [
+            4.397586345672607,
+            -0.1513502299785614,
+            -0.03474155068397522,
+            -1.7862437963485718,
+            -0.7962605357170105,
+            0.18310515582561493
+        ],
+        "actions": [
+            5.148914515395688,
+            0.6514746864737555,
+            -0.19860959755350574,
+            0.03405466190385986,
+            0.8621262288715059,
+            -1.9963755967203698
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_31.png",
+        "state": [
+            4.628970146179199,
+            -0.23458030819892883,
+            -0.03499703109264374,
+            -1.195671796798706,
+            -0.7003796696662903,
+            -0.3062772750854492
+        ],
+        "actions": [
+            5.319690638854965,
+            0.7717322323576288,
+            -0.20449568280550773,
+            0.03699404635246306,
+            0.8614766398547717,
+            -2.9263456733041835
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_32.png",
+        "state": [
+            4.730050086975098,
+            -0.276846319437027,
+            -0.03498522564768791,
+            -1.0971496105194092,
+            -0.6018575429916382,
+            -0.3062772750854492
+        ],
+        "actions": [
+            5.514503687055381,
+            0.888540106354641,
+            -0.2123716668706494,
+            -0.25256303101202293,
+            0.8992958378544365,
+            -3.0861406753423193
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_33.png",
+        "state": [
+            4.953197479248047,
+            -0.3428223133087158,
+            -0.03553019091486931,
+            -2.0722577571868896,
+            -0.5050840973854065,
+            -0.6887032389640808
+        ],
+        "actions": [
+            5.754177121118987,
+            1.0089015556547745,
+            -0.22152179113034948,
+            -0.5239480066737172,
+            0.9643728369806331,
+            -2.728722117447559
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_34.png",
+        "state": [
+            5.0773844718933105,
+            -0.3969477713108063,
+            -0.03546977788209915,
+            -1.0268374681472778,
+            -0.5015693306922913,
+            -1.3002820014953613
+        ],
+        "actions": [
+            6.053632061580642,
+            1.1480262029623987,
+            -0.23580351309608377,
+            -1.2836095352247439,
+            1.0394662727007402,
+            -2.253526070235962
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_35.png",
+        "state": [
+            5.255915641784668,
+            -0.4587456285953522,
+            -0.03571747615933418,
+            -0.31584182381629944,
+            -0.5015693306922913,
+            -1.6778066158294678
+        ],
+        "actions": [
+            6.352657674426234,
+            1.2654751198425491,
+            -0.2463103804808442,
+            -3.8992304802869486,
+            1.2285174629341022,
+            -1.5507242612319903
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_36.png",
+        "state": [
+            5.4227986335754395,
+            -0.5201006531715393,
+            -0.035874031484127045,
+            -1.1721845865249634,
+            -0.5892308950424194,
+            -1.6939388513565063
+        ],
+        "actions": [
+            6.670318690600816,
+            1.3679195071996393,
+            -0.25549440737931517,
+            -8.824459928101485,
+            1.4164002534806803,
+            0.22804349038093108
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_37.png",
+        "state": [
+            5.612923622131348,
+            -0.592943549156189,
+            -0.03599090501666069,
+            0.31978633999824524,
+            -0.6015692949295044,
+            -2.3604393005371094
+        ],
+        "actions": [
+            7.032407801968491,
+            1.4204253886795135,
+            -0.2691455980904109,
+            -10.977016480273791,
+            0.9130793635111064,
+            3.018392418899453
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_38.png",
+        "state": [
+            5.826023578643799,
+            -0.6432080864906311,
+            -0.03677751123905182,
+            -0.05845961347222328,
+            -0.6015692949295044,
+            -2.7486746311187744
+        ],
+        "actions": [
+            7.338222086818928,
+            1.3710985332464118,
+            -0.28059007768334754,
+            -11.83110368053436,
+            0.42724325972570454,
+            4.067923689177629
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_39.png",
+        "state": [
+            6.025707244873047,
+            -0.6847212314605713,
+            -0.0376313216984272,
+            7.331988334655762,
+            -0.6246919631958008,
+            -2.4681355953216553
+        ],
+        "actions": [
+            7.654893253815856,
+            1.2234828386039547,
+            -0.2992012696699088,
+            -10.522713874513173,
+            -0.0674467441758333,
+            4.368400785299374
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_40.png",
+        "state": [
+            6.2585625648498535,
+            -0.6694005727767944,
+            -0.03995842859148979,
+            8.05951976776123,
+            -0.45369648933410645,
+            -2.554150104522705
+        ],
+        "actions": [
+            7.962200180320332,
+            1.2002855798650878,
+            -0.31334668283219735,
+            -11.915288698397953,
+            -0.6872808443901997,
+            4.3964193795349855
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_41.png",
+        "state": [
+            6.478085994720459,
+            -0.6043030023574829,
+            -0.04321056976914406,
+            8.845129013061523,
+            -0.059579361230134964,
+            -2.306277275085449
+        ],
+        "actions": [
+            8.33101101128048,
+            1.1322115304277238,
+            -0.33174266015613046,
+            -9.442510109320613,
+            -1.5161959420145485,
+            3.800764986400243
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_42.png",
+        "state": [
+            6.7109527587890625,
+            -0.4720926880836487,
+            -0.04797985404729843,
+            9.07951545715332,
+            0.4025920331478119,
+            -2.1215782165527344
+        ],
+        "actions": [
+            8.691376823032133,
+            0.9527201770408684,
+            -0.3497984286145758,
+            -4.4794864814138124,
+            -1.5937416838407443,
+            1.8458318545939227
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_43.png",
+        "state": [
+            6.949692726135254,
+            -0.2929563522338867,
+            -0.05378015339374542,
+            9.974874496459961,
+            1.0266952514648438,
+            0.07851630449295044
+        ],
+        "actions": [
+            9.011808546901047,
+            0.7496305857743901,
+            -0.36432522744039486,
+            -0.8430142083630994,
+            -1.4496204308989835,
+            0.5437348863280684
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_44.png",
+        "state": [
+            7.179246425628662,
+            -0.0583941712975502,
+            -0.060659244656562805,
+            8.21934986114502,
+            1.258641242980957,
+            0.6141437292098999
+        ],
+        "actions": [
+            9.313186887691408,
+            0.5688281792119423,
+            -0.3768472890250183,
+            2.8740683261727593,
+            -1.2179554981887963,
+            -0.8385801149225873
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_45.png",
+        "state": [
+            7.40056848526001,
+            0.22117340564727783,
+            -0.06840763986110687,
+            3.6610267162323,
+            1.2984306812286377,
+            0.562984824180603
+        ],
+        "actions": [
+            9.617923629573598,
+            0.4243854948111626,
+            -0.3852449867345036,
+            8.225896510704597,
+            -0.9725297502878427,
+            -2.8723374896439946
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_46.png",
+        "state": [
+            7.62064790725708,
+            0.5378910899162292,
+            -0.0769214779138565,
+            -4.059962749481201,
+            1.2984306812286377,
+            -1.0882679224014282
+        ],
+        "actions": [
+            9.911644997440458,
+            0.3412693007215981,
+            -0.39502376659443394,
+            5.706462112901097,
+            -0.28679221681258893,
+            -2.0981283619106277
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_47.png",
+        "state": [
+            7.8481059074401855,
+            0.7924468517303467,
+            -0.08420021086931229,
+            -12.463817596435547,
+            1.1383873224258423,
+            -3.012972831726074
+        ],
+        "actions": [
+            10.246129667012982,
+            0.30302623923008365,
+            -0.40601444902537553,
+            3.0517669943811008,
+            0.3357272578005847,
+            -1.0805558511291684
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_48.png",
+        "state": [
+            8.070941925048828,
+            0.9425457715988159,
+            -0.13870681822299957,
+            -11.559800148010254,
+            0.1018061414361,
+            -3.4051520824432373
+        ],
+        "actions": [
+            10.601400728010308,
+            0.30906002635117136,
+            -0.42171302402108024,
+            1.6849443790650227,
+            0.6744841424247281,
+            -0.43589030155627917
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_49.png",
+        "state": [
+            8.34640121459961,
+            1.0200532674789429,
+            -0.19327585399150848,
+            -6.379496097564697,
+            -0.9437990784645081,
+            -2.9124934673309326
+        ],
+        "actions": [
+            10.94426567090855,
+            0.3345223137508252,
+            -0.43781381197572566,
+            1.1610974892171306,
+            0.8165046999960186,
+            -0.004402961654070836
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_50.png",
+        "state": [
+            8.602320671081543,
+            1.0448209047317505,
+            -0.1959991157054901,
+            -3.837139368057251,
+            -1.7465345859527588,
+            -1.891520619392395
+        ],
+        "actions": [
+            11.253649318079365,
+            0.520725005344827,
+            -0.4519725319947461,
+            -2.639741021978677,
+            0.6080243684369018,
+            -0.7960483764653895
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_51.png",
+        "state": [
+            8.867012023925781,
+            1.046222448348999,
+            -0.19830980896949768,
+            -2.552980899810791,
+            -1.8015693426132202,
+            -0.26239684224128723
+        ],
+        "actions": [
+            11.61248493307667,
+            0.6745541438963987,
+            -0.4713402549156004,
+            -3.869744378053014,
+            0.21494853389286905,
+            0.3793467987341625
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_52.png",
+        "state": [
+            9.129511833190918,
+            1.0352071523666382,
+            -0.20034222304821014,
+            -1.0036511421203613,
+            -140.5970001220703,
+            0.23915456235408783
+        ],
+        "actions": [
+            11.986398080035483,
+            0.7796729816479192,
+            -0.4895613089318276,
+            -2.156201537743083,
+            -0.10681734673838428,
+            0.7173462509078058
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_53.png",
+        "state": [
+            9.394248962402344,
+            1.0302600860595703,
+            -0.2025206834077835,
+            -0.39686137437820435,
+            -1.128206491470337,
+            -0.2796400785446167
+        ],
+        "actions": [
+            12.379449498418664,
+            0.8521273382119612,
+            -0.5101982243600438,
+            -0.6119713111618716,
+            -0.3079704427731962,
+            -0.22952637603142667
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_54.png",
+        "state": [
+            9.66453742980957,
+            1.0322846174240112,
+            -0.20489265024662018,
+            -0.5299453735351562,
+            -0.8354013562202454,
+            -0.6062772870063782
+        ],
+        "actions": [
+            12.796740527047486,
+            0.9205801381608627,
+            -0.5316228979590134,
+            0.6257283083386666,
+            -0.6923387907718019,
+            -1.0824688028113623
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_55.png",
+        "state": [
+            9.915181159973145,
+            1.0254027843475342,
+            -0.2069092094898224,
+            -0.27244633436203003,
+            -0.5704655647277832,
+            -0.6373810172080994
+        ],
+        "actions": [
+            13.23901795010346,
+            0.990823817130868,
+            -0.5565858861012084,
+            -0.0508078374824128,
+            -0.892476688074612,
+            -0.19982880633582356
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_56.png",
+        "state": [
+            10.177151679992676,
+            1.022661805152893,
+            -0.20910991728305817,
+            0.049383655190467834,
+            -0.37469181418418884,
+            -0.8331547379493713
+        ],
+        "actions": [
+            13.673264488034627,
+            1.0549160084453184,
+            -0.5769427414905295,
+            -3.023821938000441,
+            -0.9110755748729866,
+            1.6358280089271906
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_57.png",
+        "state": [
+            10.425796508789062,
+            1.0281699895858765,
+            -0.2113681137561798,
+            -0.22004461288452148,
+            -0.40156930685043335,
+            -0.8830940127372742
+        ],
+        "actions": [
+            14.07259981901619,
+            1.0831139832119183,
+            -0.6014150050612133,
+            -6.758322897260879,
+            -1.048811717451734,
+            3.5580311049584785
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_58.png",
+        "state": [
+            10.67928695678711,
+            1.0248382091522217,
+            -0.21348337829113007,
+            -0.6372871994972229,
+            -0.40156930685043335,
+            -0.4456384778022766
+        ],
+        "actions": [
+            14.490831365125226,
+            1.0612156026067443,
+            -0.6292226121617246,
+            -10.496116856830579,
+            -1.590825059953474,
+            5.13639290015991
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_59.png",
+        "state": [
+            10.932425498962402,
+            1.0249289274215698,
+            -0.21566711366176605,
+            -0.6640316247940063,
+            -0.4851544499397278,
+            -0.12269212305545807
+        ],
+        "actions": [
+            14.881544461049726,
+            0.9904394594966468,
+            -0.654910640817043,
+            -7.409754591844942,
+            -1.5385231751360178,
+            4.241451510798746
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_60.png",
+        "state": [
+            11.183465003967285,
+            1.0222647190093994,
+            -0.21777522563934326,
+            -0.18159905076026917,
+            -0.40156930685043335,
+            -0.2062772661447525
+        ],
+        "actions": [
+            15.355496076936253,
+            1.0027046754855888,
+            -0.6779988496978302,
+            -5.478531486119078,
+            -1.605017263535498,
+            3.7418163908487303
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_61.png",
+        "state": [
+            11.412576675415039,
+            1.0219818353652954,
+            -0.21974405646324158,
+            0.003138632280752063,
+            -0.3893977999687195,
+            -0.21844877302646637
+        ],
+        "actions": [
+            15.794318311055676,
+            0.994262343094188,
+            -0.703706168680304,
+            -3.2447115320871163,
+            -1.6292788891063024,
+            3.2521195545988038
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_62.png",
+        "state": [
+            11.678169250488281,
+            1.0249264240264893,
+            -0.22209477424621582,
+            -0.0782179906964302,
+            -0.29224762320518494,
+            -0.39695557951927185
+        ],
+        "actions": [
+            16.179275501153665,
+            0.9783398311387661,
+            -0.7223689893518423,
+            -2.442174901912,
+            -1.5153942201751152,
+            2.9975552597018953
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_63.png",
+        "state": [
+            12.029419898986816,
+            1.0129320621490479,
+            -0.2248716652393341,
+            0.09684952348470688,
+            -0.2015693187713623,
+            -0.32514458894729614
+        ],
+        "actions": [
+            16.62135815068984,
+            0.9575755442250727,
+            -0.7455189536329632,
+            -1.7544944220691718,
+            -1.522207784157712,
+            2.421423804890473
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_64.png",
+        "state": [
+            12.257248878479004,
+            1.0354083776474,
+            -0.22730495035648346,
+            -0.10551829636096954,
+            -0.2015693187713623,
+            -0.7062772512435913
+        ],
+        "actions": [
+            17.10501809070037,
+            0.948093523779212,
+            -0.7786258108062624,
+            -1.481345253339967,
+            -1.5387264589411211,
+            1.6177719912042656
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_65.png",
+        "state": [
+            12.504411697387695,
+            1.0461357831954956,
+            -0.22965940833091736,
+            -0.39686137437820435,
+            -0.20295658707618713,
+            -0.7048900127410889
+        ],
+        "actions": [
+            17.51924270514688,
+            0.9360630905945796,
+            -0.7976011911214875,
+            -0.9086963415615914,
+            -1.5769839128762058,
+            1.4823583778111065
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_66.png",
+        "state": [
+            12.742783546447754,
+            1.0564311742782593,
+            -0.23192907869815826,
+            -0.29937100410461426,
+            -0.3015693128108978,
+            -0.5087869167327881
+        ],
+        "actions": [
+            18.057233077792908,
+            0.9233327315649824,
+            -0.8344388954268772,
+            0.045023580828456033,
+            -1.6059384085167796,
+            1.6020727908442192
+        ]
+    },
+    {
+        "prompt": "Please pass through the first tree from the left side, then pass through the second tree from the right side",
+        "wrist_image_path": "/home/adminroot/lxx/openpi/code/openpi/test/infer/infer_output/images_ep36/wrist_image_ep36_frame_67.png",
+        "state": [
+            12.985127449035645,
+            1.0648690462112427,
+            -0.23419415950775146,
+            -0.48591047525405884,
+            -0.40156930685043335,
+            0.0718209519982338
+        ],
+        "actions": [
+            18.493772389107484,
+            0.9029692313184462,
+            -0.8579064013270301,
+            0.10661087614265785,
+            -1.4314643376122016,
+            1.5007268710537804
+        ]
+    }
+]
